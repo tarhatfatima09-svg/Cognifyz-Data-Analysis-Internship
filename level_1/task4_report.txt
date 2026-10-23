@@ -1,0 +1,48 @@
+# Level 1 – Task 4: Online Delivery Analysis
+
+## Objective
+To calculate the percentage of restaurants that offer online delivery and compare the average ratings of restaurants with and without online delivery.
+
+## Methodology
+1. Loaded the restaurant dataset using Pandas.
+2. Counted restaurants offering and not offering online delivery.
+3. Calculated the percentage for each category.
+4. Compared the average aggregate ratings of both groups.
+5. Created bar charts using Matplotlib.
+6. Exported the analysis results to CSV files and saved the charts as PNG images.
+
+## Results
+
+### Online Delivery Distribution
+
+| Online Delivery | Restaurant Count | Percentage |
+|---|---:|---:|
+| No | 7,100 | 74.34% |
+| Yes | 2,451 | 25.66% |
+| **Total** | **9,551** | **100.00%** |
+
+### Average Rating Comparison
+
+| Online Delivery | Average Rating | Restaurants with Ratings |
+|---|---:|---:|
+| No | 2.47 | 7,100 |
+| Yes | 3.25 | 2,451 |
+
+## Key Findings
+- Approximately 25.66% of restaurants offer online delivery.
+- Most restaurants, representing 74.34% of the dataset, do not offer online delivery.
+- Restaurants offering online delivery have an average rating of 3.25.
+- Restaurants without online delivery have an average rating of 2.47.
+- The difference in average ratings is 0.78 points in favor of restaurants offering online delivery.
+
+## Conclusion
+The analysis shows that restaurants offering online delivery have higher average aggregate ratings than restaurants that do not offer this service. However, this comparison shows an association and does not establish that online delivery causes higher ratings.
+
+## Tools Used
+Python, Pandas, Matplotlib, and Visual Studio Code.
+
+## Output Files
+- `online_delivery_distribution.csv`
+- `online_delivery_rating_comparison.csv`
+- `online_delivery_distribution.png`
+- `online_delivery_rating_comparison.png`

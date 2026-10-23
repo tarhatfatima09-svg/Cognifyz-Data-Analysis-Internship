@@ -1,0 +1,41 @@
+# Level 1 – Task 3: Price Range Distribution
+
+## Objective
+To analyze the distribution of restaurants across different price range categories and calculate the percentage of restaurants in each category.
+
+## Methodology
+1. Loaded the restaurant dataset using Python and Pandas.
+2. Checked for missing values in the `Price range` column.
+3. Counted the number of restaurants in each price range category.
+4. Calculated the percentage of restaurants in each category using the total of 9,551 restaurants.
+5. Created a bar chart using Matplotlib to visualize the distribution.
+6. Exported the results to a CSV file and saved the chart as a PNG image.
+
+## Results
+
+| Price Range | Restaurant Count | Percentage |
+|---|---:|---:|
+| 1 | 4,444 | 46.53% |
+| 2 | 3,113 | 32.59% |
+| 3 | 1,408 | 14.74% |
+| 4 | 586 | 6.14% |
+| **Total** | **9,551** | **100.00%** |
+
+Missing values in the Price range column: 0.
+
+## Key Findings
+- Price Range 1 contains the largest number of restaurants, accounting for 46.53% of the dataset.
+- Price Range 2 is the second-largest category, representing 32.59% of restaurants.
+- Together, Price Ranges 1 and 2 account for 79.12% of all restaurants.
+- Price Range 4 has the fewest restaurants, with only 6.14% of the total.
+- The distribution indicates that restaurants in the lower price range categories dominate this dataset.
+
+## Conclusion
+The analysis shows that most restaurants belong to Price Ranges 1 and 2, while relatively few belong to Price Range 4. The bar chart clearly illustrates the distribution across the four categories.
+
+## Tools Used
+Python, Pandas, Matplotlib, and Visual Studio Code.
+
+## Output Files
+- `price_range_results.csv`
+- `price_range_distribution.png`

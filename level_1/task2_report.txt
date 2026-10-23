@@ -1,0 +1,38 @@
+# Cognifyz Data Analysis Internship
+## Level 1 — Task 2: City Analysis
+
+### 1. Objective
+To identify the city with the highest number of restaurants, calculate the average restaurant rating for each city, and determine the city with the highest average rating.
+
+### 2. Tools Used
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+
+### 3. Methodology
+The dataset containing 9,551 restaurant records was loaded using Pandas. The number of restaurants in each city was calculated using value counts. Average aggregate ratings were calculated by grouping restaurants by city and excluding records with missing city or rating values. Bar charts were created to visualize restaurant counts and average ratings.
+
+### 4. Results
+
+**City with the highest number of restaurants:** New Delhi, with 5,473 records.
+
+**City with the highest average rating:** Inner City, with an average aggregate rating of 4.90.
+
+The ten cities with the highest average ratings were also displayed in the program output.
+
+### 5. Key Insights
+- New Delhi has the largest number of restaurant records in the dataset.
+- Inner City has the highest calculated average rating among the cities analyzed.
+- Restaurant concentration and average ratings measure different aspects of the dataset.
+- Average ratings should be interpreted alongside the number of restaurants contributing to each city's average.
+
+### 6. Conclusion
+The analysis successfully identified the city with the largest restaurant count and the city with the highest average rating. The visualizations provide a comparison of restaurant distribution and city-level ratings.
+
+### 7. Deliverables
+1. task2_city_analysis.py
+2. outputs/city_analysis_results.csv
+3. outputs/city_restaurant_counts.png
+4. outputs/city_average_ratings.png
+5. task2_report.txt

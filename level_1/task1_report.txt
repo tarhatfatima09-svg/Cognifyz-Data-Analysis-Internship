@@ -1,0 +1,29 @@
+# Cognifyz Data Analysis Internship
+## Level 1 — Task 1: Top Cuisines
+
+### Objective
+To identify the three most common cuisines in the restaurant dataset and calculate the percentage of restaurants serving each cuisine.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+
+### Methodology
+The restaurant dataset was loaded using Pandas. Missing cuisine entries were excluded, and restaurants listing multiple cuisines were handled by splitting the cuisine column into individual cuisine entries. Cuisine frequencies were calculated, the top three cuisines were identified, and their percentages were calculated relative to the total number of restaurant records.
+
+### Results
+Insert the three cuisines, restaurant counts, and percentages from the generated CSV file.
+
+### Key Insights
+Discuss which cuisine occurs most frequently, which ranks second and third, and how their percentages compare. Percentages can overlap because restaurants may serve multiple cuisines.
+
+### Conclusion
+The analysis successfully identified the three most common cuisines in the dataset and calculated their representation among restaurants. The results and visualization provide a useful overview of cuisine distribution.
+
+### Deliverables
+1. Python source code: task1_top_cuisines.py
+2. Results: top_cuisines_results.csv
+3. Visualization: top_cuisines_chart.png
+4. Report: task1_report.txt
