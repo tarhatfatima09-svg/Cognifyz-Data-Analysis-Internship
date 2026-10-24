@@ -1,0 +1,9 @@
+Metric,Value
+Total restaurant records,9551.0
+Records excluded due to invalid coordinates,497.0
+Records used for geographic analysis,9054.0
+Unique approximate geographic areas,1595.0
+Minimum latitude,-41.330428
+Maximum latitude,55.97698
+Minimum longitude,-157.948486
+Maximum longitude,174.8320893

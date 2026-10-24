@@ -1,0 +1,116 @@
+# COGNIFYZ TECHNOLOGIES
+# DATA ANALYSIS INTERNSHIP
+## LEVEL 2 – PROJECT SUMMARY REPORT
+
+### 1. Introduction
+
+This report summarizes the four tasks completed under Level 2 of the Cognifyz Technologies Data Analysis Internship. The project uses Python to analyze restaurant ratings, cuisine combinations, geographic distribution, and restaurant chains.
+
+### 2. Dataset Overview
+
+- Dataset: `Dataset .csv`
+- Total restaurant records: 9,551
+- Main tools: Python, Pandas, Matplotlib
+- Outputs: CSV analysis files, charts, and task reports
+
+### 3. Task 1 – Restaurant Ratings
+
+**Objective:** Analyze restaurant ratings and understand their distribution.
+
+**Results:**
+- Total restaurants analyzed: 9,551
+- Restaurants with rating 0 (unrated): 2,148
+- Restaurants rated between 1.0 and 1.9: 3
+- Restaurants rated between 2.0 and 2.9: 1,430
+- Restaurants rated between 3.0 and 3.9: 4,590
+- Restaurants rated between 4.0 and 5.0: 1,380
+- Average votes per restaurant: 156.91
+
+**Key Insight:** The most common rating range was 3.0–3.9, containing 4,590 restaurants. A further 2,148 records had a rating of 0 and were classified as unrated in this analysis.
+
+**Outputs:**
+- `rating_distribution.csv`
+- `rating_distribution.png`
+- `rating_analysis_summary.csv`
+
+### 4. Task 2 – Cuisine Combinations
+
+**Objective:** Analyze cuisine combinations by restaurant count, average rating, and total votes.
+
+**Results:**
+- Unique cuisine combinations: 1,826
+- Most common cuisine entry: North Indian, with 936 restaurant records
+- North Indian and Chinese combination: 511 records
+- Highest average-rated combination in the analysis: Sunda, Indonesian, with an average rating of 4.9
+
+**Key Insight:** North Indian cuisine entries were the most frequent in the results. The Sunda, Indonesian combination had the highest reported average rating, but its record count should be considered before drawing broad conclusions.
+
+**Outputs:**
+- `cuisine_combinations_results.csv`
+- `top_10_cuisine_combinations.csv`
+- `top_10_cuisine_combinations.png`
+- `cuisine_combination_ratings.png`
+
+### 5. Task 3 – Geographic Analysis
+
+**Objective:** Analyze restaurant locations using latitude and longitude and identify approximate areas with high restaurant concentrations.
+
+**Results:**
+- Original records: 9,551
+- Records excluded due to missing or placeholder coordinates: 497
+- Records used for geographic analysis: 9,054
+- Most populated approximate coordinate area: latitude 28.63, longitude 77.22
+- Restaurant records in that area: 147
+
+**Key Insight:** After excluding records with coordinates equal to (0, 0), the highest-count approximate areas were concentrated around the New Delhi region. Coordinates rounded to two decimal places were used to compare approximate areas.
+
+**Outputs:**
+- `geographic_restaurant_data.csv`
+- `geographic_cluster_results.csv`
+- `geographic_analysis_summary.csv`
+- `restaurant_geographic_distribution.png`
+- `top_geographic_clusters.png`
+
+### 6. Task 4 – Restaurant Chains
+
+**Objective:** Identify repeated restaurant names, compare outlet counts, and analyze average ratings and votes.
+
+**Results:**
+- Restaurant records analyzed: 9,551
+- Unique restaurant names: 7,446
+- Names appearing in two or more records: 734
+- Most frequent restaurant name: Cafe Coffee Day, with 83 records
+- Highest average-rated name among those appearing in at least two records: Talaga Sampireun, with an average rating of 4.9 across 3 records
+
+**Key Insight:** Cafe Coffee Day had the highest number of records among the restaurant names analyzed. Repeated names may represent chain outlets, but the dataset does not independently verify that every repeated name corresponds to a distinct physical outlet.
+
+**Outputs:**
+- `restaurant_chains_results.csv`
+- `top_10_restaurant_chains.csv`
+- `top_10_restaurant_chains.png`
+- `restaurant_chain_ratings.png`
+
+### 7. Overall Findings
+
+1. Ratings were most frequently in the 3.0–3.9 range.
+2. North Indian cuisine entries appeared most frequently in the cuisine-combination analysis.
+3. Geographic analysis identified several high-count approximate areas around New Delhi after placeholder coordinates were excluded.
+4. Cafe Coffee Day had the highest record count among the restaurant names analyzed for chains.
+5. CSV summaries and visualizations provide complementary ways to inspect the results.
+
+### 8. Tools and Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- CSV data processing
+- Geographic coordinate analysis
+- Data visualization
+
+### 9. Conclusion
+
+Level 2 applied data analysis and visualization techniques to explore four aspects of the restaurant dataset. The tasks produced summary tables, CSV files, charts, and individual reports. These outputs demonstrate practical skills in data cleaning, aggregation, comparison, and visualization.
+
+**Project:** Cognifyz Technologies Data Analysis Internship  
+**Level:** 2  
+**Status:** Four task analyses completed

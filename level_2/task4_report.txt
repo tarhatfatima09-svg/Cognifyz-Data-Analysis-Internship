@@ -1,0 +1,76 @@
+# Level 2 – Task 4: Restaurant Chains Analysis
+
+## 1. Objective
+
+The objective of this task is to identify restaurant names appearing multiple times in the dataset, compare their record counts, analyze average ratings, and examine total customer votes.
+
+## 2. Tools and Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- CSV for storing analysis results
+- Visual Studio Code
+
+## 3. Methodology
+
+The following steps were performed:
+
+1. Loaded the restaurant dataset using Pandas.
+2. Cleaned restaurant names by removing leading and trailing spaces and excluding blank names.
+3. Converted aggregate ratings and votes to numeric values.
+4. Grouped restaurant records by restaurant name.
+5. Calculated the record count, average positive rating, and total votes for each name.
+6. Identified names appearing in two or more records as potential restaurant chains.
+7. Sorted these names by record count and identified the top 10.
+8. Generated charts and exported the results to CSV files.
+
+## 4. Results
+
+The analysis covered 9,551 restaurant records and identified 7,446 unique restaurant names. Of these, 734 names appeared in two or more records.
+
+### Top 10 Restaurant Names by Record Count
+
+| Restaurant Name | Record Count | Average Rating | Total Votes |
+|---|---:|---:|---:|
+| Cafe Coffee Day | 83 | 3.00 | 2,428 |
+| Domino's Pizza | 79 | 2.93 | 6,643 |
+| Subway | 63 | 3.00 | 6,124 |
+| Green Chick Chop | 51 | 3.10 | 964 |
+| McDonald's | 48 | 3.41 | 5,291 |
+| Keventers | 34 | 3.37 | 1,263 |
+| Pizza Hut | 30 | 3.43 | 4,961 |
+| Giani | 29 | 3.25 | 854 |
+| Baskin Robbins | 28 | 3.26 | 428 |
+| Barbeque Nation | 26 | 4.35 | 28,142 |
+
+### Highest Average-Rated Repeated Restaurant Name
+
+- Restaurant name: Talaga Sampireun
+- Average rating: 4.90
+- Number of records: 3
+
+## 5. Key Insights
+
+1. Cafe Coffee Day has the highest record count among the analyzed restaurant names, with 83 records.
+2. Domino's Pizza follows with 79 records, while Subway has 63 records.
+3. Barbeque Nation has the highest total votes among the top 10 names, with 28,142 votes, and an average rating of 4.35.
+4. Pizza Hut has an average rating of 3.43 among its 30 records.
+5. Talaga Sampireun has the highest average rating among names appearing at least twice, at 4.90 across three records.
+6. Restaurant names appearing multiple times can help identify potential chains, but repeated names alone do not prove that every record represents a separate physical outlet.
+
+## 6. Output Files
+
+The analysis generated the following files in the `level_2/outputs/` directory:
+
+- `restaurant_chains_results.csv` – Analysis of restaurant names appearing in at least two records.
+- `top_10_restaurant_chains.csv` – Top 10 restaurant names by record count.
+- `top_10_restaurant_chains.png` – Bar chart comparing record counts.
+- `restaurant_chain_ratings.png` – Bar chart comparing average ratings.
+
+## 7. Conclusion
+
+The analysis identified restaurant names that appear repeatedly in the dataset and compared their record counts, average ratings, and total votes. Cafe Coffee Day had the highest record count among the top 10 names, while Barbeque Nation had the highest total votes within that group.
+
+These findings demonstrate how data grouping and aggregation can reveal patterns in restaurant data. The results should be interpreted with the understanding that repeated names do not independently verify the number of physical restaurant outlets.
+

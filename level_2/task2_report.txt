@@ -1,0 +1,78 @@
+# Level 2 – Task 2: Cuisine Combinations Analysis
+
+## 1. Objective
+
+The objective of this task is to analyze restaurant cuisine combinations, identify the most common combinations, compare their average ratings, and examine their restaurant counts and total votes.
+
+## 2. Tools and Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- CSV for storing analysis results
+- Visual Studio Code
+
+## 3. Methodology
+
+The following steps were performed:
+
+1. Loaded the restaurant dataset using Pandas.
+2. Handled missing cuisine values by replacing them with "Unknown".
+3. Grouped restaurants by their cuisine combinations.
+4. Calculated the restaurant count, average rating, and total votes for each combination.
+5. Excluded zero ratings when calculating average ratings.
+6. Sorted combinations by restaurant count to identify the top 10.
+7. Identified the cuisine combination with the highest average rating.
+8. Generated charts and exported the results to CSV files.
+
+## 4. Results
+
+The analysis identified **1,826 distinct cuisine combinations**.
+
+### Top 10 Most Common Cuisine Combinations
+
+| Cuisine Combination | Restaurant Count | Average Rating | Total Votes |
+|---|---:|---:|---:|
+| North Indian | 936 | 3.18 | 46,241 |
+| North Indian, Chinese | 511 | 3.12 | 42,012 |
+| Chinese | 354 | 3.23 | 21,925 |
+| Fast Food | 354 | 3.29 | 17,852 |
+| North Indian, Mughlai | 334 | 3.28 | 53,747 |
+| Cafe | 299 | 3.43 | 30,657 |
+| Bakery | 218 | 3.23 | 4,307 |
+| North Indian, Mughlai, Chinese | 197 | 3.09 | 20,115 |
+| Bakery, Desserts | 170 | 3.40 | 8,361 |
+| Street Food | 149 | 3.39 | 9,782 |
+
+### Highest Average-Rated Cuisine Combination
+
+- Cuisine combination: Sunda, Indonesian
+- Average rating: 4.90
+
+This result identifies the highest average rating in the analysis. The number of restaurants in this combination should be checked before drawing broad conclusions from its rating.
+
+## 5. Key Insights
+
+1. North Indian cuisine is the most frequently listed combination, with 936 restaurant records.
+2. North Indian and Chinese cuisines together appear in 511 restaurant records.
+3. Chinese and Fast Food each have 354 restaurant records.
+4. Cafe has an average rating of 3.43 among the top 10 most common combinations.
+5. North Indian, Mughlai has the highest total votes among the top 10 combinations, with 53,747 votes.
+6. Sunda, Indonesian has the highest average rating in the complete analysis, at 4.90. This result should be interpreted cautiously if the combination has a small sample size.
+
+## 6. Output Files
+
+The analysis generated the following files in the `level_2/outputs/` directory:
+
+- `cuisine_combinations_results.csv` – Results for all cuisine combinations.
+- `top_10_cuisine_combinations.csv` – Results for the 10 most common combinations.
+- `top_10_cuisine_combinations.png` – Bar chart of the most common cuisine combinations.
+- `cuisine_combination_ratings.png` – Bar chart comparing average ratings among the top 10 combinations.
+
+## 7. Conclusion
+
+The analysis shows that North Indian cuisine is the most common cuisine entry in the dataset. Several restaurants offer combinations of cuisines, including North Indian and Chinese. The results also show differences in restaurant counts, ratings, and total votes across combinations.
+
+The generated CSV files and charts provide useful information about restaurant cuisine patterns and customer ratings. These findings can support further restaurant data analysis.
+
+This task demonstrates the use of Python, Pandas, and Matplotlib for grouping data, calculating summary statistics, and visualizing findings.

@@ -1,0 +1,70 @@
+# Level 2 – Task 1: Restaurant Ratings Analysis
+
+## 1. Objective
+
+The objective of this task is to analyze restaurant ratings and voting patterns in the dataset. The analysis focuses on rating distribution, unrated restaurants, the most common rating range, and the average number of votes per restaurant.
+
+## 2. Tools and Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- CSV for storing results
+- Visual Studio Code
+
+## 3. Methodology
+
+The following steps were performed:
+
+1. Loaded the restaurant dataset using Pandas.
+2. Examined the `Aggregate rating` and `Votes` columns.
+3. Counted restaurants with an aggregate rating of 0, treating them as unrated records.
+4. Grouped restaurants with positive ratings into four ranges: 1.0–1.9, 2.0–2.9, 3.0–3.9, and 4.0–5.0.
+5. Identified the most common rating range.
+6. Calculated the average number of votes per restaurant.
+7. Generated a bar chart and exported the results to CSV files.
+
+## 4. Results
+
+The dataset contains 9,551 restaurant records.
+
+### Rating Distribution
+
+| Rating Range | Number of Restaurants |
+|---|---:|
+| 0 (Unrated) | 2,148 |
+| 1.0–1.9 | 3 |
+| 2.0–2.9 | 1,430 |
+| 3.0–3.9 | 4,590 |
+| 4.0–5.0 | 1,380 |
+| **Total** | **9,551** |
+
+### Key Statistics
+
+- Total restaurant records: 9,551
+- Restaurants with a rating of 0: 2,148
+- Most common rating range among rated restaurants: 3.0–3.9
+- Restaurants in the most common rating range: 4,590
+- Average votes per restaurant: 156.91
+
+## 5. Key Insights
+
+1. The 3.0–3.9 rating range contains the largest number of restaurants, with 4,590 records.
+2. Approximately 22.49% of all restaurant records have a rating of 0.
+3. Only three restaurants fall within the 1.0–1.9 rating range.
+4. The 4.0–5.0 rating range contains 1,380 restaurants.
+5. The average number of votes per restaurant is 156.91 across the dataset.
+
+## 6. Output Files
+
+The analysis generated the following files in the `level_2/outputs/` directory:
+
+- `rating_distribution.png` – Bar chart showing the rating distribution.
+- `rating_distribution.csv` – Restaurant counts by rating category.
+- `rating_analysis_summary.csv` – Summary statistics from the analysis.
+
+## 7. Conclusion
+
+The analysis shows that the 3.0–3.9 rating range is the most common among rated restaurants. A considerable portion of the dataset consists of unrated records, which should be considered when interpreting restaurant ratings. The generated chart and CSV files provide a clear summary of the distribution and voting patterns.
+
+This task demonstrates the use of Python, Pandas, and Matplotlib for exploratory data analysis and visualization.

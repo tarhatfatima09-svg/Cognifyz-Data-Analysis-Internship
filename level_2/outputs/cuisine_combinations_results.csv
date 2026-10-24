@@ -1,0 +1,1827 @@
+Cuisines,Restaurant_Count,Average_Rating,Total_Votes
+North Indian,936,3.18,46241
+"North Indian, Chinese",511,3.12,42012
+Chinese,354,3.23,21925
+Fast Food,354,3.29,17852
+"North Indian, Mughlai",334,3.28,53747
+Cafe,299,3.43,30657
+Bakery,218,3.23,4307
+"North Indian, Mughlai, Chinese",197,3.09,20115
+"Bakery, Desserts",170,3.4,8361
+Street Food,149,3.39,9782
+"Pizza, Fast Food",131,3.05,9953
+"Chinese, Fast Food",118,3.03,4802
+"Mithai, Street Food",116,3.14,3043
+South Indian,112,3.28,16433
+"Bakery, Fast Food",108,3.28,6421
+"Chinese, North Indian",105,3.08,8121
+Mughlai,103,3.36,3818
+"Ice Cream, Desserts",83,3.39,4293
+Ice Cream,74,3.44,5400
+"North Indian, Fast Food",74,3.2,5159
+Mithai,71,3.12,772
+"North Indian, Chinese, Mughlai",70,3.14,8195
+"North Indian, Chinese, Fast Food",68,3.03,4173
+"North Indian, Chinese, Continental",65,3.4,6906
+"Bakery, Desserts, Fast Food",63,3.48,8775
+"American, Fast Food, Salad, Healthy Food",62,3.0,6092
+"Mughlai, North Indian",60,3.3,15275
+"Fast Food, Burger",56,3.4,7189
+Italian,54,3.95,14799
+Beverages,54,3.44,1751
+Biryani,54,3.28,911
+Desserts,53,3.6,5587
+Pizza,53,3.44,11537
+"Chinese, Thai",51,3.52,12354
+Finger Food,49,3.28,4292
+"Raw Meats, North Indian, Fast Food",49,3.12,1033
+"Fast Food, North Indian",46,3.21,1379
+"North Indian, South Indian, Chinese",46,3.08,1765
+"Raw Meats, Fast Food",44,2.99,391
+"Fast Food, Beverages",44,3.3,2165
+"Burger, Fast Food",43,3.49,8150
+"South Indian, North Indian, Chinese",42,3.17,5899
+"Fast Food, Chinese",41,3.21,2895
+"Italian, Pizza, Fast Food",36,3.04,4318
+Mexican,36,3.85,7193
+"North Indian, South Indian",35,3.02,508
+"North Indian, Chinese, South Indian",34,3.14,1295
+"South Indian, Chinese",34,3.06,1007
+American,31,3.92,7802
+"North Indian, Continental",28,3.52,10760
+"Desserts, Ice Cream",26,3.57,2020
+"Italian, Pizza",24,3.8,5828
+"Burger, Desserts, Fast Food",22,3.63,5974
+"North Indian, Street Food",22,3.29,1724
+Continental,21,3.74,3455
+"American, Fast Food",20,3.35,6708
+"Cafe, Tea",20,3.75,2532
+"South Indian, North Indian",19,3.16,1331
+"Pizza, Italian",19,3.67,6046
+Asian,18,3.91,4612
+"Japanese, Sushi",18,4.04,5119
+"Street Food, Mithai",18,3.22,296
+"Fast Food, Street Food",18,3.4,625
+"Cafe, Fast Food",18,3.66,2046
+"North Indian, Continental, Chinese",18,3.27,1368
+"Biryani, North Indian",18,2.86,2035
+Indian,18,4.25,6068
+"Mughlai, North Indian, Chinese",18,3.36,5059
+Japanese,17,3.76,2503
+"Biryani, Mughlai",17,3.42,934
+Thai,16,4.1,3299
+"Cafe, Bakery",16,3.7,2238
+"North Indian, Chinese, Italian",16,3.57,2715
+Healthy Food,15,3.39,626
+"North Indian, Biryani",15,3.38,935
+"Beverages, Fast Food",15,3.27,1815
+Seafood,14,4.11,5332
+"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",14,3.53,3353
+"Desserts, Beverages",14,3.65,1505
+"Continental, North Indian",13,3.71,8463
+"American, Burger",13,4.08,6371
+"North Indian, South Indian, Chinese, Fast Food",13,3.0,612
+"Continental, Italian",13,3.54,5213
+"Tibetan, Chinese",13,3.12,1139
+"Cafe, Continental",12,3.88,3664
+"North Indian, Chinese, Continental, Italian",12,3.61,4837
+"Cafe, Italian",12,3.91,1970
+"Street Food, North Indian",12,3.25,698
+"Fast Food, North Indian, Chinese",11,3.37,1305
+"Chinese, Mughlai, North Indian",11,2.88,472
+Modern Indian,11,4.35,12355
+"Fast Food, Pizza",11,2.79,348
+"Chinese, South Indian",11,2.93,116
+"Desserts, Bakery",11,3.6,543
+"Cafe, Continental, Italian",10,4.08,1830
+"Asian, Chinese",10,3.77,3007
+"Italian, Fast Food",10,3.57,1010
+"Continental, North Indian, Chinese",10,3.54,1263
+"North Indian, Chinese, South Indian, Fast Food",10,3.36,807
+BBQ,9,3.98,2059
+"South Indian, Fast Food",9,3.26,627
+Brazilian,9,4.24,549
+"Cafe, Desserts",9,3.86,1530
+Lebanese,9,3.52,958
+"Street Food, Fast Food",9,2.85,94
+Unknown,9,3.87,2726
+"North Indian, South Indian, Fast Food",9,3.11,431
+"Cafe, North Indian, Chinese",9,3.64,414
+"North Indian, Fast Food, Chinese",9,3.12,600
+"North Indian, Continental, Italian",9,3.85,2264
+"Fast Food, Bakery",9,3.3,235
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",8,3.56,1589
+"Mughlai, Biryani",8,3.38,443
+"Japanese, Steak, Sushi",8,3.72,1275
+"Raw Meats, Fast Food, North Indian",8,3.08,109
+Kashmiri,8,3.33,813
+"North Indian, Mughlai, Chinese, Fast Food",8,2.96,392
+"North Indian, Mughlai, Biryani",8,3.58,1760
+"North Indian, Chinese, Italian, Continental",8,3.51,10744
+"Chinese, Thai, Asian",8,3.55,1255
+"Italian, Pizza, Bakery",8,2.66,1496
+"Tea, Fast Food",8,3.04,630
+"Healthy Food, Salad",8,3.7,2030
+"American, Seafood, Steak",8,3.84,2904
+"Chinese, North Indian, Mughlai",8,2.93,467
+"North Indian, Continental, Asian",8,3.74,2055
+"Continental, Chinese, North Indian",7,3.55,1733
+"Desserts, Street Food",7,3.06,72
+Steak,7,4.19,1379
+French,7,4.19,1192
+"Fast Food, Italian",7,3.36,189
+"Biryani, Hyderabadi",7,3.53,836
+"American, Breakfast",7,3.81,1815
+"Mithai, Fast Food",7,3.25,28
+"North Indian, Italian, Continental",7,3.62,1034
+European,7,3.87,1382
+"American, Fast Food, Burger",7,2.47,906
+"Chinese, North Indian, South Indian",6,3.1,68
+"Street Food, Chinese",6,3.3,29
+"Mughlai, Chinese",6,3.03,48
+"Chinese, North Indian, Fast Food",6,3.28,83
+"Continental, Italian, North Indian",6,3.62,5535
+"Continental, North Indian, Italian",6,3.67,3010
+"Ice Cream, Beverages, Fast Food",6,3.1,18
+"Cafe, Italian, Continental",6,4.15,3396
+"Mithai, North Indian",6,3.02,58
+"Bakery, Mithai",6,3.0,23
+"Burger, American, Fast Food",6,3.85,1118
+"Bengali, North Indian",6,3.3,588
+Korean,6,3.72,1084
+Maharashtrian,6,3.53,455
+"Continental, Healthy Food",6,3.75,314
+Burger,6,4.45,2737
+Tea,6,3.4,23
+"Italian, Continental",6,3.68,3551
+"Chinese, Continental, North Indian",6,3.42,1125
+"Chinese, Fast Food, North Indian",6,3.03,563
+"Cafe, Chinese",6,3.27,228
+"North Indian, Chinese, Street Food",6,3.58,982
+"Desserts, Fast Food",6,3.86,306
+"North Indian, Italian, Chinese",6,3.44,1141
+"Cafe, Bakery, Desserts",6,4.17,1248
+International,6,4.23,973
+"Biryani, North Indian, Mughlai",5,3.44,1558
+"North Indian, Mughlai, Chinese, South Indian",5,3.76,2290
+"American, Italian",5,3.52,1333
+Bengali,5,3.62,2336
+"Italian, Pizza, Sandwich",5,4.22,2706
+"Cafe, European",5,4.0,1296
+"Finger Food, North Indian, Italian",5,3.44,1281
+"Mughlai, Fast Food",5,3.35,28
+"Bakery, Chinese",5,3.6,158
+"American, Tex-Mex",5,3.8,3244
+"European, Continental",5,3.66,2049
+"Chinese, Tibetan",5,3.2,190
+"Continental, American",5,3.92,1544
+"North Indian, Chinese, South Indian, Mithai",5,3.04,460
+"North Indian, Biryani, Chinese, Fast Food",5,3.66,1111
+"North Indian, Chinese, Thai",5,3.58,626
+"Chinese, Asian, Thai",5,3.76,1343
+"North Indian, Street Food, Mithai",5,2.97,119
+"North Indian, European",5,3.62,1164
+"North Indian, European, Mediterranean",5,4.46,7261
+"Street Food, South Indian, Mithai",5,3.05,214
+"Continental, North Indian, Asian",5,3.54,686
+Kerala,5,3.62,1012
+"Pizza, Sandwich",5,4.14,1345
+"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",4,3.92,5167
+"North Indian, Rajasthani",4,3.47,550
+"Fast Food, Desserts",4,3.13,94
+"Chinese, Italian, North Indian",4,3.65,847
+"American, Southern",4,4.22,1740
+"Cafe, Continental, Chinese",4,3.63,251
+"North Indian, Chinese, Continental, Fast Food",4,3.58,210
+"Italian, Continental, European, Cafe",4,4.47,10853
+"Portuguese, African",4,3.83,3780
+"Chinese, Asian",4,3.62,692
+"North Indian, Chinese, South Indian, Seafood, Chettinad",4,3.65,1651
+"Chinese, North Indian, Italian",4,3.3,283
+Turkish,4,3.4,1099
+"North Indian, Mithai",4,3.1,82
+"Cafe, Chinese, Italian",4,3.53,642
+"North Indian, Chinese, Finger Food",4,3.3,408
+"Bakery, Fast Food, Chinese",4,3.33,144
+"Brazilian, Bar Food",4,4.68,123
+"Healthy Food, Continental",4,3.48,280
+"Mithai, Street Food, North Indian",4,2.9,47
+"North Indian, South Indian, Street Food, Mithai",4,3.18,1059
+"Fast Food, Italian, Pizza",4,3.52,249
+"European, Italian",4,3.75,1136
+"Continental, American, Asian, North Indian",4,4.15,11404
+"Chinese, South Indian, Fast Food",4,2.95,46
+"Chinese, Seafood",4,3.4,776
+"European, Chinese, North Indian, Italian",4,4.05,4027
+"American, Bar Food",4,4.23,2225
+"Chinese, Japanese, Thai",4,3.5,429
+"North Indian, Bengali",4,3.03,154
+Breakfast,4,3.9,1655
+Mediterranean,4,4.03,1108
+"Kebab, Turkish Pizza",4,4.32,530
+"Healthy Food, Beverages",4,3.53,99
+"Healthy Food, Juices",4,3.3,23
+"American, Burger, Sandwich",4,3.85,1104
+Southern,4,3.98,2573
+"North Indian, Fast Food, South Indian",4,3.13,106
+Juices,4,3.2,10
+Sushi,4,3.9,230
+"North Indian, Asian, Continental",4,3.48,580
+"South Indian, Chinese, North Indian",4,3.23,212
+"Chinese, Thai, Fast Food",4,3.73,285
+"American, BBQ, Steak",4,3.82,742
+Afghani,4,2.9,39
+Rajasthani,4,4.13,2335
+"Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",4,3.72,467
+"Burger, Fast Food, Chinese",3,3.2,338
+"Desserts, Bakery, Fast Food",3,3.33,564
+"American, Italian, Pizza",3,3.97,901
+"American, Mexican",3,3.47,1180
+"Desserts, Cafe",3,4.27,786
+"European, Mediterranean, North Indian",3,4.8,12541
+"American, Pizza, Bar Food",3,4.17,1226
+"Burger, Seafood, Steak",3,3.53,332
+"Burmese, Chinese, Japanese, Malaysian, Thai",3,3.87,875
+"American, Steak",3,3.83,257
+"Continental, American, Italian",3,3.77,1146
+"Chinese, Continental",3,3.7,397
+"Desserts, Ice Cream, Fast Food",3,3.0,10
+"Cafe, Beverages",3,3.75,108
+"Fast Food, North Indian, South Indian",3,2.2,252
+"Cafe, Chinese, Fast Food",3,3.3,116
+"Chinese, Italian, Fast Food",3,3.07,230
+"Asian, Thai",3,3.97,1441
+"Asian, Thai, Chinese",3,4.17,2633
+"Chinese, Mughlai",3,3.3,139
+"Bakery, Cafe",3,3.9,363
+"Bakery, Chinese, Fast Food",3,3.53,503
+"Bakery, Desserts, Beverages",3,3.63,281
+"Bakery, Desserts, Cafe",3,4.0,6307
+"Chinese, North Indian, Fast Food, Italian",3,4.03,3536
+"Bakery, Fast Food, Desserts",3,3.55,3609
+"Bakery, Italian, Chinese, Mexican",3,3.8,143
+Bar Food,3,4.23,1166
+"Cafe, Italian, Chinese",3,3.53,1040
+"Chinese, North Indian, Mughlai, Continental",3,3.27,1722
+"Continental, Fast Food",3,3.27,70
+Bihari,3,3.43,340
+"Cafe, Italian, Lebanese",3,3.43,861
+"Finger Food, North Indian, Chinese",3,3.1,242
+"Chinese, Seafood, Japanese",3,2.83,304
+German,3,4.17,2103
+Gujarati,3,3.83,439
+"Hawaiian, Seafood, Steak",3,4.33,3255
+"Ice Cream, Beverages",3,3.7,56
+"Cafe, Fast Food, North Indian",3,3.8,811
+"Ice Cream, Desserts, Beverages",3,4.25,246
+"Indian, North Indian",3,4.73,982
+"Indian, Street Food",3,3.97,517
+"Italian, Mediterranean, Pizza",3,4.13,970
+"Italian, North Indian, Continental",3,3.43,1132
+"Japanese, Korean",3,4.1,727
+"Japanese, Sushi, Thai",3,3.8,519
+"Kerala, South Indian",3,3.4,447
+"Lebanese, Arabian",3,3.77,225
+"Lebanese, Arabian, Moroccan",3,2.25,177
+"Lebanese, Mediterranean, Middle Eastern, Arabian",3,3.87,1371
+Lucknowi,3,3.6,203
+"Mediterranean, Italian",3,4.33,970
+"Mexican, American, Tex-Mex, Burger",3,4.7,5747
+"Mexican, Fast Food",3,3.87,825
+"Mithai, Bakery",3,3.1,7
+"Mithai, Chinese",3,2.8,8
+"Mithai, North Indian, South Indian, Street Food",3,2.87,31
+"Mithai, South Indian, Street Food",3,3.5,97
+Naga,3,3.6,301
+Nepalese,3,4.0,62
+"North Indian, Chinese, Cafe",3,3.63,1881
+"North Indian, Chinese, Continental, Thai",3,3.4,298
+"North Indian, Continental, Chinese, Italian",3,3.83,1149
+"North Indian, Continental, Fast Food",3,3.17,376
+"North Indian, Continental, Mughlai, Asian",3,4.03,6069
+"North Indian, Fast Food, Italian, Asian",3,4.03,114
+"North Indian, Fast Food, Mughlai",3,3.33,57
+"North Indian, Italian",3,3.93,462
+"North Indian, Mediterranean, Asian",3,3.83,2070
+"North Indian, Mughlai, Chinese, Continental",3,3.77,1112
+"North Indian, Mughlai, Chinese, Seafood",3,3.2,558
+"North Indian, Mughlai, Fast Food",3,2.9,48
+"North Indian, South Indian, Chinese, Mithai",3,2.7,86
+"North Indian, South Indian, Mughlai",3,3.9,3251
+"North Indian, South Indian, Street Food",3,3.75,350
+"North Indian, Street Food, Fast Food",3,3.15,65
+"Parsi, Iranian",3,4.07,5374
+"Pizza, Bar Food",3,4.03,626
+"Pizza, Cafe, Italian",3,4.5,2821
+Raw Meats,3,,2
+"Raw Meats, North Indian",3,2.6,24
+"Seafood, North Indian",3,3.9,897
+"South Indian, Biryani",3,4.5,384
+"South Indian, Chinese, Fast Food",3,2.9,6
+"Spanish, Tapas",3,4.07,2222
+"Street Food, Beverages",3,3.5,415
+"Street Food, Desserts",3,2.87,26
+"Biryani, North Indian, Hyderabadi",3,3.97,1882
+"Fast Food, Turkish",3,3.8,590
+Filipino,3,4.5,1201
+"Street Food, North Indian, South Indian, Mithai",3,3.47,113
+"Street Food, South Indian",3,3.47,533
+"Chinese, South Indian, North Indian",3,3.1,64
+"Sunda, Indonesian",3,4.9,5514
+"Breakfast, Burger",3,3.67,1160
+"Sushi, Asian",3,3.63,144
+"American, Breakfast, Burger",3,4.03,977
+"Chinese, Thai, Japanese",3,4.1,1206
+British,3,4.37,813
+"Cafe, North Indian, Continental",3,2.95,88
+"Fast Food, Chinese, Bakery",3,3.3,91
+"Burger, American",3,4.03,388
+"Thai, Chinese",3,3.47,44
+"Chinese, Thai, Seafood",3,3.4,641
+"Mexican, American, Italian",2,4.2,1720
+"Healthy Food, Continental, Juices, Salad",2,3.55,416
+"Italian, Chinese, North Indian",2,3.45,82
+"Mexican, Italian",2,3.1,26
+"Middle Eastern, Mediterranean, North Indian",2,3.4,330
+"Continental, Chinese, Thai, Mughlai, North Indian",2,3.85,1485
+"Gujarati, Rajasthani",2,3.25,1635
+"Italian, Continental, Cafe",2,4.15,3128
+"Cafe, Healthy Food, Continental",2,3.8,252
+"Fast Food, Beverages, Desserts",2,4.2,1607
+"Mithai, North Indian, Chinese, Street Food",2,2.75,36
+"Mithai, North Indian, South Indian, Chinese, Street Food",2,3.0,39
+Goan,2,3.25,458
+"Italian, Continental, North Indian, Chinese",2,3.0,433
+"Cafe, Fast Food, Street Food",2,3.95,1500
+"Mithai, Street Food, Chinese",2,2.95,8
+"Mithai, Street Food, Fast Food",2,2.8,10
+"Continental, North Indian, Italian, Asian",2,3.85,2671
+Modern Australian,2,2.9,37
+"Cafe, Fast Food, Italian, Chinese",2,3.95,3449
+"Modern Indian, North Indian",2,4.35,1928
+"Cafe, Fast Food, Italian",2,4.25,3525
+"Cafe, Fast Food, Desserts",2,3.6,268
+"European, American, Street Food",2,3.7,32
+"Mughlai, Chinese, North Indian",2,3.35,270
+"Bakery, Desserts, Chinese, Fast Food",2,3.4,211
+"Mughlai, Lucknowi, Awadhi",2,3.1,56
+"European, American",2,4.1,2861
+Drinks Only,2,3.5,45
+"Italian, European",2,3.15,2866
+"European, Cafe",2,4.2,772
+North Eastern,2,3.7,94
+"Cafe, Desserts, Bakery",2,3.65,405
+"North Indian, Asian",2,4.2,1493
+"Continental, North Indian, Chinese, Mughlai, Asian",2,3.8,161
+"North Indian, Asian, European",2,3.95,195
+"BBQ, Burger, Seafood",2,3.7,270
+"Chinese, Mithai",2,,4
+"Continental, Chinese",2,3.65,100
+"Cafe, Continental, Italian, North Indian",2,3.45,213
+"Italian, Mediterranean, Continental, North Indian",2,4.1,3145
+"Finger Food, Continental, Italian",2,3.7,203
+"Fast Food, American, Italian",2,3.65,211
+"Continental, North Indian, Chinese, Cafe",2,3.5,503
+"North Indian, Chinese, Continental, Mughlai",2,3.4,70
+"Hyderabadi, North Indian",2,3.3,87
+"Assamese, Chinese",2,3.15,263
+"North Indian, Chinese, Fast Food, Street Food",2,3.15,88
+"Asian, Vietnamese",2,3.9,861
+"Desserts, Sandwich",2,4.05,147
+"Cafe, Continental, Fast Food, Italian",2,3.7,164
+"North Indian, Chinese, Italian, Fast Food",2,2.9,70
+"North Indian, Chinese, Mediterranean",2,4.6,2015
+"Cafe, Continental, Fast Food",2,3.95,241
+"Chinese, Japanese",2,3.4,449
+"North Indian, Chinese, Mughlai, Fast Food",2,2.55,75
+"North Indian, Chinese, Raw Meats",2,3.05,76
+"Cafe, Continental, Chinese, Italian",2,4.2,1248
+"North Indian, Chinese, South Indian, Chinese",2,3.7,472
+"Asian, North Indian",2,3.95,456
+"Chinese, Italian, Continental, North Indian",2,3.9,227
+"Fast Food, American",2,3.75,58
+"Fast Food, Italian, North Indian, Chinese",2,3.3,28
+"Finger Food, Italian, North Indian",2,4.1,2136
+"Asian, European",2,3.95,817
+"Fast Food, Street Food, Beverages",2,3.3,13
+"Continental, American, North Indian, Chinese",2,3.65,601
+"Italian, North Indian",2,3.4,267
+"North Indian, Continental, Chinese, Italian, Thai, Mughlai",2,3.8,1220
+"Italian, North Indian, Chinese, Mughlai",2,3.75,1181
+"North Indian, Continental, Finger Food",2,3.75,1527
+"North Indian, Continental, Goan",2,4.25,1774
+"Cafe, Burger",2,4.55,705
+"North Indian, Continental, Italian, Chinese",2,4.0,866
+"North Indian, Continental, Mexican, Italian",2,3.95,978
+"Indian, Curry",2,4.3,426
+"Chinese, Fast Food, Bakery",2,2.9,4
+"North Indian, European, Asian, Mediterranean",2,3.75,2053
+"Asian, Chinese, Thai",2,4.1,227
+"Chinese, Dim Sum",2,4.75,1721
+"Continental, American, Italian, Seafood, North Indian, Cafe",2,4.0,2144
+"Chinese, Seafood, Asian",2,4.05,906
+"Continental, North Indian, South Indian",2,3.8,163
+"Continental, Mexican, Fast Food, Chinese",2,3.5,176
+"North Indian, Finger Food",2,3.0,11
+"Chinese, North Indian, Street Food",2,3.35,102
+"Cafe, Bakery, Fast Food",2,3.4,26
+"North Indian, Italian, Chinese, Fast Food",2,3.8,317
+"North Indian, Italian, Chinese, Mexican",2,4.25,2450
+"Fast Food, North Indian, Desserts, Ice Cream",2,2.75,243
+"North Indian, Italian, Fast Food",2,3.35,629
+"North Indian, Maharashtrian",2,3.7,357
+"Cafe, Italian, Fast Food",2,3.9,4038
+"North Indian, Mediterranean, Continental",2,3.4,417
+"American, Tex-Mex, Italian, Mexican, North Indian",2,2.6,326
+"North Indian, Mithai, Street Food",2,2.6,56
+"Chinese, Beverages",2,3.35,77
+"North Indian, Mughlai, Awadhi",2,3.2,14
+"Chinese, Bakery",2,3.3,48
+"European, North Indian",2,3.55,249
+"Continental, North Indian, Mughlai, Chinese",2,3.2,155
+"Burger, Pizza, Sandwich",2,3.55,137
+"North Indian, Mughlai, Chinese, Italian",2,3.55,285
+"Japanese, Asian",2,3.85,177
+"American, Mexican, Burger",2,3.9,697
+"North Indian, Mughlai, Continental",2,3.2,39
+"Japanese, Chinese, Asian, Malaysian, Thai, Vietnamese",2,3.15,90
+"North Indian, Mughlai, Seafood",2,4.1,181
+"North Indian, Mughlai, South Indian",2,3.3,141
+"Filipino, Mexican",2,4.85,1364
+"Coffee and Tea, Sandwich",2,3.6,162
+"American, Italian, Seafood",2,3.85,1010
+"Finger Food, North Indian",2,3.7,1429
+"North Indian, South Indian, Chinese, Fast Food, Mithai",2,3.1,172
+"Japanese, Chinese, Thai",2,3.7,309
+"North Indian, South Indian, Chinese, Street Food",2,3.05,93
+"European, Italian, North Indian",2,4.1,2313
+"North Indian, South Indian, Chinese, Street Food, Mithai",2,3.1,650
+"Fast Food, Chinese, North Indian",2,3.4,71
+"Chinese, Thai, Sushi",2,3.95,361
+"North Indian, South Indian, Fast Food, Street Food, Mithai",2,2.85,43
+"Indian, Middle Eastern",2,3.5,263
+"Continental, European, North Indian",2,2.6,105
+"North Indian, South Indian, Street Food, Bakery",2,4.25,481
+"Fast Food, North Indian, Beverages",2,3.8,201
+"Burger, Bar Food",2,3.95,1138
+"Continental, North Indian, Mughlai, Burmese",2,4.3,1906
+"North Indian, Street Food, South Indian, Fast Food, Chinese",2,2.8,93
+"North Indian, Thai, Continental",2,3.95,743
+Oriya,2,3.25,308
+Pakistani,2,4.0,272
+"Pakistani, Indian",2,3.9,481
+Parsi,2,3.95,750
+"Hyderabadi, North Indian, Biryani",2,3.7,352
+"Fast Food, South Indian",2,4.2,763
+"Japanese, Thai, Italian, Asian",2,3.65,1199
+"Beverages, Desserts",2,3.6,23
+"European, Desserts",2,4.2,2567
+"Cafe, North Indian, Italian",2,3.9,162
+"American, Desserts",2,4.65,3010
+"Tibetan, Nepalese",2,3.65,1048
+"Cafe, North Indian, Fast Food",2,3.05,42
+"Juices, Desserts",2,4.0,167
+"British, Contemporary",2,4.3,246
+"Cafe, North Indian, Continental, Chinese",2,3.7,501
+"Juices, Healthy Food",2,4.35,100
+"European, Continental, North Indian",2,3.55,364
+Restaurant Cafe,2,3.85,1407
+"Sandwich, Seafood, Cajun",2,4.65,1428
+"Cafe, North Indian, Chinese, Continental",2,3.35,372
+"Seafood, American",2,3.6,686
+"Seafood, Italian",2,3.95,262
+"Seafood, Kiwi",2,4.45,827
+"Continental, European",2,3.9,237
+"Seafood, Sushi",2,4.15,1199
+"Seafood, Western",2,3.7,483
+South American,2,3.5,145
+"Breakfast, Sandwich",2,4.4,1437
+Kebab,2,4.55,355
+"South Indian, Chettinad",2,3.5,1763
+"Chinese, Thai, Japanese, Tibetan",2,3.35,378
+"Kebab, Desserts, Turkish Pizza",2,4.3,283
+"Chinese, Thai, Continental, North Indian",2,3.75,1368
+"Chinese, Thai, Asian, Malaysian, Vietnamese, Japanese",2,4.0,1046
+"South Indian, Fast Food, Chinese",2,2.9,12
+"South Indian, Kerala",2,3.6,70
+"Continental, Goan, Seafood, North Indian",2,4.5,878
+"Breakfast, Coffee and Tea",2,3.7,115
+"South Indian, North Indian, Chinese, Fast Food",2,3.35,144
+"South Indian, Street Food, Mithai",2,3.5,75
+"Cafe, Mexican",2,4.2,70
+"Cafe, Italian, Continental, Chinese",2,3.5,1563
+"Chinese, Street Food",2,2.8,8
+"Steak, American",2,3.8,354
+Vietnamese,2,4.05,353
+"Street Food, Bakery",2,2.9,12
+"Bengali, Seafood",2,4.1,1999
+"Continental, Fast Food, Italian",2,4.2,111
+"Street Food, Chinese, North Indian",2,3.6,364
+"Street Food, Chinese, North Indian, Mithai",2,3.4,192
+"Kerala, Biryani",2,3.75,237
+"Indian, North Indian, Chinese",2,4.15,841
+"Bengali, North Indian, Chinese",2,3.7,525
+Latin American,2,4.3,257
+"Street Food, North Indian, Mithai",2,3.3,69
+"Street Food, North Indian, South Indian, Chinese, Mithai",2,3.8,1380
+"Latin American, Mexican, Southwestern",2,4.4,2897
+"Cafe, Italian, Chinese, North Indian",2,3.65,464
+"Indian, South Indian",2,3.7,323
+"Ice Cream, Fast Food, Beverages",2,3.6,89
+Hyderabadi,2,2.85,152
+"Healthy Food, Juices, Salad, Italian, Continental",2,4.05,108
+"Sushi, Japanese",2,4.2,614
+"Taiwanese, Street Food",2,4.65,384
+Tapas,2,4.4,696
+"Cafe, Italian, Chinese, Continental",2,3.9,1089
+Malaysian,2,4.2,575
+"Bar Food, Brazilian",2,3.6,10
+"American, BBQ",2,3.8,724
+"American, BBQ, Burger",2,3.85,439
+"American, BBQ, Southern",2,3.95,150
+"Mediterranean, American, Asian",2,3.65,787
+"Italian, Chinese",2,,2
+"Mediterranean, Italian, Continental, Spanish, North Indian",2,3.55,2546
+"Thai, Asian",2,4.05,303
+"Mediterranean, Italian, European",2,4.15,3708
+Tibetan,2,,2
+"Bakery, Street Food",2,3.2,29
+"Tibetan, Chinese, North Indian",2,,1
+"Cafe, Desserts, Beverages",1,3.7,783
+"Cafe, Desserts, Healthy Food, Juices",1,3.7,223
+"Cafe, European, Mexican",1,4.4,242
+"Cafe, Fast Food, American",1,3.8,27
+"Cafe, Fast Food, Asian, Italian",1,2.8,19
+"Cafe, Fast Food, Bakery",1,,1
+"Cafe, Fast Food, Beverages",1,3.8,81
+"Cafe, Fast Food, Chinese",1,3.7,45
+"Cafe, Fast Food, Continental",1,3.2,12
+"Cafe, Fast Food, Healthy Food",1,4.1,135
+"Cafe, Fast Food, Italian, Mexican",1,3.9,430
+"Cafe, Fast Food, Pizza",1,3.4,21
+"Cafe, French",1,,1
+"Cafe, Grill",1,4.0,235
+"Cafe, Healthy Food, Continental, Italian, Asian",1,3.7,131
+"Cafe, Healthy Food, North Indian",1,3.0,7
+"Cafe, Italian, Bakery",1,4.4,83
+"Cafe, Italian, Coffee and Tea, Western, Indonesian",1,4.6,1476
+"Cafe, Italian, Continental, Desserts",1,3.9,320
+"Cafe, Italian, Continental, Fast Food",1,4.3,1327
+"Cafe, Italian, Continental, Mexican",1,4.1,37
+"Cafe, Italian, Continental, Mexican, Mediterranean",1,3.6,555
+"Cafe, Italian, Desserts",1,4.1,165
+"Cafe, Italian, European, Bakery",1,4.1,147
+"Cafe, Italian, Japanese, Continental",1,4.2,633
+"Cafe, Italian, Lebanese, Continental, Mediterranean",1,4.1,1653
+"Cafe, Italian, Mexican, Bakery",1,4.1,256
+"Cafe, Italian, Mexican, Chinese",1,3.9,502
+"Cafe, Italian, Mexican, Chinese, North Indian",1,3.3,19
+"Cafe, Italian, Mexican, Continental",1,4.1,153
+"Cafe, Italian, Mexican, North Indian, Continental",1,3.9,98
+"Cafe, Italian, Mexican, Salad, Desserts",1,3.4,155
+"Cafe, Italian, North Indian",1,3.6,365
+"Cafe, Italian, Pizza",1,3.7,647
+"Cafe, Italian, Pizza, European, Bakery, Deli",1,3.9,153
+"Cafe, Italian, Salad",1,2.6,15
+"Cafe, Kiwi",1,4.3,127
+"Cafe, Kiwi, Ice Cream, Desserts",1,4.0,94
+"Cafe, Korean",1,3.6,110
+"Cafe, Korean, Desserts",1,4.5,118
+"Cafe, Lebanese, Italian",1,3.8,214
+"Cafe, Mediterranean",1,4.1,374
+"Cafe, Mexican, American, Italian, Lebanese, Continental",1,4.3,4085
+"Cafe, Mexican, Continental",1,,0
+"Cafe, Mexican, Italian, Continental",1,4.3,798
+"Cafe, Mexican, Italian, Fast Food",1,3.8,71
+"Cafe, Mexican, Italian, North Indian, Chinese",1,3.8,429
+"Cafe, Mexican, Italian, North Indian, Fast Food",1,4.2,198
+"Cafe, Mughlai, North Indian",1,3.2,8
+"Cafe, North Eastern",1,,0
+"Cafe, North Indian",1,4.0,62
+"Cafe, North Indian, Chinese, South Indian",1,3.2,18
+"Cafe, North Indian, Continental, Italian",1,3.7,43
+"Cafe, North Indian, Italian, Chinese",1,2.8,16
+"Cafe, North Indian, Italian, Japanese, Fast Food",1,3.6,391
+"Cafe, North Indian, Lebanese, Continental",1,3.5,30
+"Cafe, Patisserie",1,4.1,88
+"Cafe, Patisserie, Bakery, Desserts",1,4.4,157
+"Cafe, Pizza",1,3.5,54
+"Cafe, Pizza, Burger",1,4.0,34
+"Cafe, Pizza, Italian",1,3.8,863
+"Cafe, Sandwich, Southern",1,4.3,719
+"Cafe, South Indian, North Indian, Bakery",1,3.5,126
+"Cafe, Spanish, Turkish, Greek",1,3.2,33
+"Cafe, Sri Lankan, Continental, American",1,4.0,209
+"Cafe, Street Food",1,3.2,21
+"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish",1,4.5,97
+"Cafe, Tea, Desserts",1,3.6,34
+"Cafe, Tibetan",1,,0
+"Cafe, Western",1,4.3,458
+Cajun,1,4.7,1412
+Caribbean,1,4.3,910
+"Caribbean, Mexican, Cajun",1,3.8,187
+"Caribbean, Seafood",1,4.3,905
+"Caribbean, Seafood, Steak",1,3.5,479
+"Charcoal Grill, Italian, North Indian, European, Indonesian, Thai",1,4.4,635
+"Chinese, Asian, Mediterranean, Continental",1,3.9,305
+"Chinese, Assamese",1,3.3,153
+"Chinese, Biryani, North Indian",1,3.0,5
+"Chinese, Cafe",1,2.8,19
+"Chinese, Cafe, Fast Food",1,3.2,32
+"Chinese, Cafe, North Indian, Desserts",1,3.9,326
+"Chinese, Canadian",1,3.0,6
+"Chinese, Continental, Italian, North Indian",1,3.1,27
+"Chinese, Continental, Mexican",1,2.8,14
+"Chinese, Continental, North Indian, Mexican",1,4.1,569
+"Chinese, Continental, North Indian, Mughlai",1,3.7,260
+"Chinese, Continental, Singaporean",1,3.4,34
+"Chinese, Continental, Thai",1,3.2,88
+"Chinese, Fast Food, Ice Cream",1,3.3,11
+"Chinese, Fast Food, North Indian, South Indian",1,3.4,280
+"Chinese, Fast Food, North Indian, South Indian, Street Food, Mithai",1,2.4,29
+"Chinese, Fast Food, Pizza",1,,0
+"Chinese, Healthy Food",1,2.8,78
+"Chinese, Indian",1,,1
+"Chinese, Italian",1,,0
+"Chinese, Italian, Continental",1,3.1,15
+"Chinese, Italian, North Indian, Mexican, Mediterranean, Thai",1,4.2,1582
+"Chinese, Japanese, Italian, Seafood",1,3.5,1027
+"Chinese, Japanese, Korean, Asian",1,4.0,225
+"Chinese, Japanese, Sushi",1,4.5,407
+"Chinese, Japanese, Thai, Asian",1,3.5,384
+"Chinese, Japanese, Thai, Malaysian, Vietnamese, Asian",1,3.6,210
+"Chinese, Lucknowi",1,,1
+"Chinese, Mangalorean",1,3.7,355
+"Chinese, Mexican, Fast Food, Continental",1,3.0,4
+"Chinese, Mexican, Italian",1,3.0,6
+"Chinese, Naga",1,3.7,143
+"Chinese, North Eastern",1,,0
+"Chinese, North Indian, Cafe",1,3.7,338
+"Chinese, North Indian, Continental",1,3.6,106
+"Chinese, North Indian, Continental, Italian",1,3.4,148
+"Chinese, North Indian, Continental, Mexican",1,2.7,19
+"Chinese, North Indian, Fast Food, Street Food",1,,1
+"Chinese, North Indian, Italian, Continental",1,3.2,30
+"Chinese, North Indian, Italian, Continental, Fast Food",1,3.2,145
+"Chinese, North Indian, Italian, Fast Food",1,3.6,346
+"Chinese, North Indian, Italian, Mexican",1,3.8,201
+"Chinese, North Indian, Italian, Mughlai",1,3.0,11
+"Chinese, North Indian, Mithai, Street Food",1,2.6,32
+"Chinese, North Indian, Mughlai, Pizza",1,,1
+"Chinese, North Indian, Seafood",1,2.8,31
+"Chinese, North Indian, South Indian, Fast Food",1,2.0,161
+"Chinese, North Indian, South Indian, Healthy Food",1,3.1,6
+"Chinese, North Indian, South Indian, Street Food",1,2.3,31
+"Chinese, North Indian, Thai",1,3.5,74
+"Chinese, Pizza",1,4.6,728
+"Chinese, Seafood, Cantonese, Dim Sum",1,3.9,34
+"Chinese, Seafood, North Indian, Biryani",1,4.2,146
+"Chinese, Seafood, Thai",1,3.5,234
+"Chinese, Seafood, Vegetarian",1,3.6,88
+"Chinese, Steak",1,4.6,717
+"Chinese, Sushi, Thai",1,4.2,220
+"Chinese, Thai, Asian, Japanese, Korean, Seafood",1,3.9,173
+"Chinese, Thai, Burmese, Vietnamese, Tibetan, Japanese",1,4.4,73
+"Chinese, Thai, Continental, Fast Food, North Indian",1,3.9,117
+"Chinese, Thai, Japanese, Asian",1,4.4,129
+"Chinese, Thai, Malaysian, Indonesian",1,3.3,199
+"Chinese, Thai, Malaysian, Vietnamese, Korean, Indonesian, Asian",1,3.8,189
+"Chinese, Thai, North Indian",1,3.7,137
+"Chinese, Thai, North Indian, Japanese",1,3.8,184
+"Chinese, Thai, North Indian, South Indian",1,3.7,145
+"Chinese, Thai, Seafood, Naga",1,3.8,556
+"Chinese, Thai, Seafood, North Indian, Italian",1,3.0,5
+"Chinese, Thai, Tibetan",1,4.2,406
+"Chinese, Thai, Tibetan, Japanese",1,3.9,419
+"Chinese, Tibetan, Fast Food",1,3.3,150
+"Chinese, Tibetan, Japanese",1,3.6,412
+"Coffee and Tea, Cuban, Latin American",1,3.9,146
+"Coffee and Tea, Desserts",1,4.3,456
+"Coffee and Tea, Desserts, Beverages",1,3.7,136
+"Coffee and Tea, Mediterranean",1,4.3,88
+"Coffee and Tea, Modern Australian",1,2.4,193
+"Coffee and Tea, Tapas, Australian",1,3.6,96
+"Coffee and Tea, Tea, Modern Australian",1,3.6,29
+Contemporary,1,4.5,265
+"Contemporary, Burger, European",1,4.0,504
+"Contemporary, Italian",1,4.8,542
+"Contemporary, Sushi, Grill, Italian, Steak",1,3.4,111
+"Continental, American, Cafe",1,4.1,567
+"Continental, American, Fast Food",1,3.9,109
+"Continental, American, Italian, Bakery",1,3.9,1756
+"Continental, American, Italian, Mediterranean",1,3.8,240
+"Continental, American, Italian, North Indian, Chinese",1,3.6,23
+"Continental, American, Italian, North Indian, Chinese, Cafe",1,4.7,276
+"Continental, American, North Indian",1,3.6,30
+"Continental, American, Seafood",1,4.2,171
+"Continental, American, Tex-Mex, North Indian",1,3.5,1863
+"Continental, Asian",1,4.2,79
+"Continental, Asian, Italian, Mediterranean, Burger",1,3.8,1845
+"Continental, Asian, North Indian",1,3.4,19
+"Continental, Asian, North Indian, Italian",1,3.5,240
+"Continental, Asian, Sushi",1,4.2,63
+"Continental, Burger, American",1,3.5,129
+"Continental, Burger, Pizza, North Indian, European, Finger Food",1,3.9,96
+"Continental, Cafe",1,3.7,18
+"Continental, Cafe, Desserts, Bakery",1,4.3,312
+"Continental, Cafe, Italian, Desserts",1,4.4,1504
+"Continental, Cafe, Italian, Pizza, North Indian, Chinese, Bakery, Mughlai",1,3.4,16
+"Continental, Cafe, Spanish, Italian, European, Greek, Mediterranean",1,4.5,1210
+"Continental, Chinese, Biryani, North Indian",1,3.6,73
+"Continental, Chinese, Fast Food",1,,2
+"Continental, Chinese, Italian, Bakery",1,4.2,261
+"Continental, Chinese, Italian, Cafe",1,3.4,430
+"Continental, Chinese, Italian, Finger Food",1,4.3,90
+"Continental, Chinese, Japanese, North Indian, Thai",1,3.0,19
+"Continental, Chinese, Mexican, North Indian",1,3.8,149
+"Continental, Chinese, North Indian, Healthy Food",1,3.2,12
+"Continental, Chinese, North Indian, Indian",1,,3
+"Continental, Chinese, North Indian, Mughlai",1,3.1,17
+"Continental, Chinese, Thai",1,4.1,22
+"Continental, Chinese, Thai, Malaysian, North Indian",1,3.8,221
+"Continental, Chinese, Thai, Mediterranean",1,3.4,174
+"Continental, European, Asian, North Indian, Chinese, Italian",1,4.1,214
+"Continental, European, North Indian, French",1,4.0,189
+"Continental, Fast Food, Asian, Italian",1,3.8,200
+"Continental, Fast Food, Chinese, Charcoal Grill, Mexican",1,4.0,256
+"Continental, Fast Food, Desserts, Indian",1,3.8,24
+"Continental, Fast Food, North Indian, Asian",1,3.6,742
+"Continental, Fast Food, Tea",1,3.9,26
+"Continental, Finger Food",1,3.4,20
+"Continental, Finger Food, Chinese, North Indian",1,3.8,31
+"Continental, Indian",1,4.9,641
+"Continental, Italian, American",1,4.1,1980
+"Continental, Italian, American, North Indian",1,3.3,169
+"Continental, Italian, Asian, Indian",1,4.7,52
+"Continental, Italian, Chinese",1,4.1,1041
+"Continental, Italian, Fast Food",1,,1
+"Continental, Italian, Mediterranean",1,3.8,773
+"Continental, Italian, Mediterranean, Asian",1,4.1,153
+"Continental, Italian, Mexican",1,3.4,69
+"Continental, Italian, North Indian, American",1,3.5,134
+"Continental, Italian, North Indian, Chinese",1,4.0,115
+"Continental, Italian, North Indian, Chinese, Lebanese",1,3.8,43
+"Continental, Italian, North Indian, Lebanese",1,2.8,27
+"Continental, Italian, North Indian, Lebanese, Thai",1,4.0,212
+"Continental, Italian, North Indian, Mughlai",1,4.4,166
+"Continental, Italian, Pizza, Asian",1,4.6,395
+"Continental, Italian, Thai, Finger Food",1,4.0,428
+"Continental, Juices, Cafe, Desserts, Salad, Italian",1,4.2,99
+"Continental, Kashmiri, Italian, North Indian, Moroccan",1,3.6,300
+"Continental, Kerala",1,4.5,1033
+"Continental, Lebanese, Mexican",1,,0
+"Continental, Mediterranean, Italian, North Indian",1,4.0,510
+"Continental, Mexican",1,4.6,1136
+"Continental, Mexican, American, Fast Food, Italian, Chinese",1,3.9,132
+"Continental, Mexican, American, Italian, North Indian",1,3.7,706
+"Continental, Mexican, Beverages, Desserts, North Indian, Chinese, Rajasthani",1,4.0,916
+"Continental, Mexican, Burger, American, Pizza, Tex-Mex",1,4.1,467
+"Continental, Mexican, Fast Food, North Indian, Chinese",1,3.1,6
+"Continental, Mexican, Italian",1,3.6,111
+"Continental, Mexican, Mediterranean",1,3.0,18
+"Continental, Mexican, North Indian, Chinese",1,3.7,112
+"Continental, Middle Eastern, Asian",1,4.8,1424
+"Continental, Modern Indian, Asian",1,4.0,91
+"Continental, North Indian, American, Italian, Mexican",1,4.3,142
+"Continental, North Indian, Chinese, Arabian, Thai",1,4.3,233
+"Continental, North Indian, Chinese, Asian",1,4.1,163
+"Continental, North Indian, Chinese, European, Asian",1,3.9,401
+"Continental, North Indian, Chinese, Italian",1,4.2,248
+"Continental, North Indian, Chinese, Italian, Finger Food",1,3.6,751
+"Continental, North Indian, Chinese, Mediterranean",1,4.1,799
+"Continental, North Indian, European",1,3.7,116
+"Continental, North Indian, European, Asian",1,4.0,165
+"Continental, North Indian, European, Finger Food",1,4.2,1193
+"Continental, North Indian, Fast Food, Street Food, South Indian",1,,2
+"Continental, North Indian, Finger Food",1,3.4,228
+"Continental, North Indian, Italian, Chinese",1,4.2,1809
+"Continental, North Indian, Italian, Seafood, Goan",1,3.5,1681
+"Continental, North Indian, Mexican",1,3.2,135
+"Continental, North Indian, Mughlai, Italian",1,4.1,387
+"Continental, North Indian, South Indian, Italian",1,3.9,821
+"Continental, North Indian, Thai, Chinese",1,4.3,270
+"Continental, Seafood, Burger, South African, Finger Food, Grill",1,4.0,158
+"Continental, Seafood, Chinese, North Indian, Biryani",1,3.6,193
+"Continental, Seafood, Goan, Andhra, Kerala, Thai",1,4.2,46
+"Continental, Seafood, North Indian",1,3.3,89
+"Continental, Seafood, North Indian, Asian",1,3.6,1040
+"Continental, South African, Beverages, Desserts, Seafood, Grill, Ice Cream, International",1,4.5,222
+"Continental, South Indian",1,3.8,249
+"Continental, Tex-Mex",1,3.8,567
+"Continental, Thai, Chinese, North Indian",1,3.2,28
+"Cuban, Spanish",1,4.4,1746
+Cuisine Varies,1,,2
+"Desserts, American",1,4.0,356
+"Desserts, Bakery, Pizza, Burger, Continental",1,3.6,58
+"Desserts, Bakery, Western",1,4.6,903
+"Desserts, Bar Food",1,4.7,3074
+"Desserts, Beverages, Juices",1,3.7,36
+"Desserts, B�_rek",1,4.7,1305
+"Desserts, Cafe, Mexican",1,4.7,344
+"Desserts, Fast Food, Chinese",1,3.2,92
+"Desserts, Fast Food, Ice Cream",1,4.0,95
+"Desserts, Greek, Sandwich",1,4.3,244
+"Desserts, Ice Cream, North Indian",1,3.5,19
+"Desserts, Ice Cream, Pizza",1,,1
+"Desserts, Italian, Pizza",1,4.1,430
+"Desserts, Latin American, Argentine",1,4.1,374
+"Desserts, Middle Eastern, Turkish",1,3.9,200
+"Desserts, Mithai",1,2.9,10
+"Desserts, North Indian",1,,1
+"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",1,3.9,141
+"Desserts, Pizza, Ice Cream",1,3.5,74
+"Desserts, Sandwich, Ice Cream",1,4.6,880
+"Desserts, Sandwich, Southern",1,3.9,372
+"Desserts, Thai",1,3.7,162
+"European, Arabian, Japanese, Bakery, Desserts",1,3.9,197
+"European, Asian",1,4.3,96
+"European, Asian, Indian",1,4.9,621
+"European, Asian, Mediterranean, Modern Indian, Desserts, Finger Food",1,4.1,140
+"European, Asian, North Indian, Italian, Continental, Pizza",1,4.1,826
+"European, Cafe, Italian",1,4.3,1607
+"European, Chinese",1,3.8,53
+"European, Contemporary",1,4.9,441
+"European, Continental, Pizza",1,4.2,113
+"European, German",1,4.9,1413
+"European, International, Tapas",1,4.4,900
+"European, Italian, Cafe",1,4.1,1199
+"European, Italian, Desserts",1,4.2,1810
+"European, Italian, Mediterranean",1,4.2,379
+"European, Italian, Thai, Chinese, North Indian",1,3.2,30
+"European, Lebanese, Mediterranean",1,4.2,2549
+"European, Mediterranean, Contemporary",1,4.2,67
+"European, North Indian, Chinese",1,2.2,116
+"European, North Indian, Continental, Italian",1,3.7,81
+"European, North Indian, Mediterranean, American",1,4.5,213
+"European, Pizza",1,4.1,1207
+"European, South African",1,4.6,892
+"European, South African, Steak",1,4.5,287
+"European, Spanish",1,4.3,303
+"European, Sushi, Italian",1,3.0,9
+"Fast Food, American, Burger",1,4.0,608
+"Fast Food, American, Salad, Healthy Food",1,3.4,32
+"Fast Food, Biryani",1,4.0,246
+"Fast Food, Cafe",1,3.2,39
+"Fast Food, Cafe, Desserts, Bakery",1,3.9,52
+"Fast Food, Cafe, Italian, North Indian, Chinese",1,3.2,48
+"Fast Food, Chinese, Bengali",1,3.3,38
+"Fast Food, Chinese, Burger",1,,0
+"Fast Food, Chinese, Italian",1,3.1,11
+"Fast Food, Chinese, Mithai, Street Food",1,2.9,4
+"Fast Food, Continental, Italian, Bakery",1,3.2,22
+"Fast Food, Desserts, Beverages",1,,0
+"Fast Food, Desserts, Ice Cream, Beverages",1,2.6,14
+"Fast Food, French",1,3.0,6
+"Fast Food, Healthy Food",1,3.7,105
+"Fast Food, Italian, Beverages",1,3.5,60
+"Fast Food, Italian, Chinese",1,4.0,96
+"Fast Food, Italian, Desserts, Beverages",1,3.3,12
+"Fast Food, Maharashtrian, North Indian",1,2.7,11
+"Fast Food, Mexican, Tex-Mex",1,3.6,20
+"Fast Food, Mithai, Bakery",1,3.3,13
+"Fast Food, Mughlai",1,,0
+"Fast Food, Mughlai, Armenian",1,,0
+"Fast Food, North Indian, Bakery",1,3.1,8
+"Fast Food, North Indian, Chinese, Desserts",1,2.8,13
+"Fast Food, North Indian, Chinese, Desserts, Ice Cream",1,2.5,221
+"Fast Food, North Indian, Chinese, South Indian, Ice Cream",1,2.7,114
+"Fast Food, North Indian, Mughlai",1,4.0,841
+"Fast Food, North Indian, South Indian, Chinese",1,2.7,39
+"Fast Food, North Indian, South Indian, Chinese, Bakery",1,3.2,11
+"Fast Food, North Indian, South Indian, Chinese, Street Food, Mithai",1,3.3,236
+"Fast Food, Pizza, Burger",1,3.6,165
+"Fast Food, Raw Meats",1,,3
+"Fast Food, Seafood",1,3.7,137
+"Fast Food, South Indian, Chinese",1,3.2,23
+"Fast Food, South Indian, Chinese, Mithai",1,2.9,4
+"Fast Food, South Indian, Mithai",1,,0
+"Fast Food, Street Food, Chinese",1,2.9,8
+"Fast Food, Street Food, South Indian",1,4.4,697
+"Fast Food, Tea",1,2.8,7
+"Filipino, Japanese, Asian",1,4.5,162
+"Finger Food, American, Continental, North Indian, Italian",1,4.6,2093
+"Finger Food, Continental, Italian, Chinese",1,3.6,90
+"Finger Food, Continental, North Indian",1,3.8,290
+"Finger Food, Continental, North Indian, Chinese",1,3.1,1099
+"Finger Food, Continental, North Indian, Italian, Chinese",1,3.7,1902
+"Finger Food, European",1,3.2,10
+"Finger Food, European, North Indian",1,3.5,422
+"Finger Food, Italian",1,3.5,14
+"Finger Food, Italian, Middle Eastern",1,3.7,142
+"Finger Food, Italian, Spanish, Greek",1,4.1,1143
+"Finger Food, North Indian, Continental, Chinese, Italian",1,3.0,4
+"Finger Food, North Indian, Continental, Italian",1,3.7,1801
+"Finger Food, North Indian, Continental, Italian, Mediterranean",1,4.0,24
+"Tibetan, Fast Food",1,2.6,41
+"Finger Food, North Indian, Italian, Continental, Thai, South Indian",1,4.5,5705
+"Finger Food, North Indian, Italian, European, Continental",1,4.1,230
+"Tex-Mex, American",1,4.0,911
+"French, Brazilian, Beverages",1,4.6,30
+"French, Continental, North Indian",1,3.5,328
+"French, Italian",1,3.8,199
+"French, Japanese, Desserts",1,4.8,314
+"French, Kiwi",1,4.4,125
+"French, Mediterranean, European",1,3.8,33
+"French, Western",1,4.3,243
+"Tibetan, South Indian, North Indian",1,,0
+"German, Ice Cream",1,3.9,136
+"Tibetan, Street Food",1,,1
+"Goan, American, Portuguese",1,3.8,23
+"Goan, Chinese, Indian, North Indian",1,4.3,544
+"Goan, Mangalorean, Continental, French",1,3.5,225
+"Goan, North Indian, Chinese",1,3.8,601
+"Goan, Seafood",1,3.7,277
+"Goan, Seafood, Chinese",1,4.2,414
+"Goan, Seafood, Chinese, North Indian",1,4.4,1115
+"Goan, Seafood, North Indian",1,4.5,840
+"Gourmet Fast Food, Burger",1,4.3,68
+Greek,1,4.7,816
+"Greek, Italian",1,3.8,221
+"Greek, Lebanese",1,4.2,304
+"Greek, Mediterranean",1,3.6,27
+"Greek, Mediterranean, Middle Eastern",1,,3
+"Greek, Mediterranean, Vegetarian",1,4.2,223
+"Grill, Burger",1,4.1,258
+"Grill, Steak, Burger, Sushi, Tapas",1,4.3,430
+Turkish Pizza,1,4.3,103
+"Turkish, Arabian, Middle Eastern",1,4.3,224
+"Gujarati, Rajasthani, North Indian, Fast Food",1,3.8,603
+"Gujarati, South Indian, North Indian",1,3.7,203
+Hawaiian,1,4.5,1151
+"Hawaiian, Seafood",1,4.9,1343
+"Turkish, Arabian, Moroccan, Lebanese",1,,0
+"Turkish, Mediterranean, Middle Eastern",1,4.3,43
+"Healthy Food, American, Burger, Salad",1,3.4,170
+"Vietnamese, Fish and Chips",1,4.3,96
+"Healthy Food, Cafe, Desserts, Italian, Bakery",1,3.8,99
+"Western, Asian, Cafe",1,4.2,259
+"Healthy Food, Continental, Italian",1,4.0,361
+"Healthy Food, Continental, Juices, Beverages, Italian, Salad, Lebanese",1,4.0,101
+"Western, Fusion, Fast Food",1,3.2,32
+"Healthy Food, Continental, North Indian, Salad",1,3.5,30
+"Healthy Food, European, Continental, Salad",1,3.6,461
+"Healthy Food, Fast Food",1,3.9,54
+"Healthy Food, Fast Food, Salad",1,3.2,44
+"Healthy Food, Italian, Juices, Beverages",1,3.7,81
+World Cuisine,1,4.9,95
+"Healthy Food, Juices, Salad",1,3.7,37
+"World Cuisine, Mexican, Italian",1,4.4,115
+"Healthy Food, North Indian",1,3.6,57
+"Healthy Food, North Indian, Beverages",1,3.7,25
+"Healthy Food, North Indian, Chinese, Continental",1,3.7,142
+"Healthy Food, North Indian, Continental",1,4.0,162
+"Healthy Food, North Indian, Italian, Salad",1,3.4,20
+"World Cuisine, Patisserie, Cafe",1,4.2,1034
+"Healthy Food, Salad, Italian, Continental",1,3.9,144
+"Healthy Food, Seafood, Beverages, Belgian, Contemporary, Desserts, Finger Food, International",1,4.2,20
+"American, Bar Food, BBQ",1,,2
+"Hyderabadi, Awadhi",1,4.1,571
+"Hyderabadi, Biryani",1,,1
+"Hyderabadi, Biryani, North Indian",1,4.2,295
+"Hyderabadi, Fast Food",1,3.9,63
+"American, Bar Food, Sandwich",1,3.7,747
+"American, Breakfast, Desserts",1,4.3,96
+"American, Breakfast, Diner",1,3.4,20
+"Ice Cream, Bakery",1,,0
+"American, Breakfast, Greek",1,4.0,85
+"American, Breakfast, Hawaiian",1,4.2,694
+"American, Breakfast, Vegetarian",1,4.4,797
+"American, British, Continental",1,4.0,969
+"Ice Cream, Desserts, Cafe",1,3.1,11
+"Ice Cream, Desserts, Continental",1,4.5,217
+"Ice Cream, Desserts, Fast Food",1,3.0,8
+"Ice Cream, Desserts, North Indian, Street Food",1,3.8,71
+"American, Burger, Cafe",1,4.7,9667
+"Ice Cream, Mithai, North Indian, Street Food",1,4.3,521
+"Ice Cream, Street Food",1,2.9,8
+"American, Burger, Cajun",1,3.8,88
+"Indian, Asian",1,4.4,552
+"Indian, Asian, Durban, International, Desserts",1,4.3,43
+"Indian, Cafe",1,3.8,73
+"Indian, Cafe, Curry",1,4.5,305
+"Indian, Chinese, Continental",1,3.6,34
+"Indian, Continental",1,4.8,2510
+"American, Burger, Fast Food",1,4.6,413
+"Indian, Grill",1,3.7,48
+"Indian, International, Vegetarian",1,3.8,141
+"Indian, Mediterranean, Middle Eastern",1,4.6,166
+"American, Burger, Grill",1,4.9,162
+"Indian, Mughlai, South Indian, Biryani",1,4.1,372
+"American, Burger, Pizza, Cafe",1,3.7,89
+"American, Cafe",1,4.2,676
+"Indian, North Indian, Curry, Cafe",1,4.7,964
+"Indian, North Indian, Mughlai, Biryani",1,4.0,355
+"Indian, North Indian, South Indian, Chinese",1,3.9,285
+"Indian, North Indian, Street Food",1,4.4,281
+"Indian, Pakistani",1,4.0,63
+"Indian, Pakistani, Curry",1,4.7,214
+"Indian, Persian",1,,1
+"Indian, Rajasthani",1,4.1,1448
+"Indian, Seafood",1,3.6,101
+"American, Caribbean, Seafood",1,4.9,548
+"American, Chinese, North Indian",1,2.5,93
+Indonesian,1,3.7,155
+"American, Chinese, North Indian, Italian",1,3.5,42
+"International, Indian",1,4.5,909
+"International, Italian, Southern",1,4.8,1715
+"International, Mediterranean, Sandwich",1,4.5,796
+"International, Pizza",1,3.8,198
+"International, Southern",1,4.1,465
+"International, Southern, Vegetarian",1,4.2,800
+"International, Tapas, Vegetarian",1,4.5,631
+Irish,1,4.3,782
+"American, Chinese, Sushi",1,3.7,243
+"Italian, American, Lebanese",1,4.3,887
+"Italian, American, Pizza",1,4.8,10934
+"Italian, Bakery, Continental",1,4.9,322
+"Italian, Burger, Charcoal Grill",1,3.8,127
+"Italian, Cafe",1,4.2,170
+"Italian, Cafe, Chinese, Continental",1,4.3,69
+"Italian, Cafe, Desserts",1,3.7,157
+"American, Coffee and Tea",1,4.9,570
+"American, Continental, Burger",1,4.6,150
+"Italian, Chinese, Fast Food, North Indian",1,3.7,32
+"Italian, Chinese, Mexican, Thai, North Indian",1,4.0,582
+"American, Continental, Italian",1,3.8,203
+"American, Continental, Italian, Bakery",1,3.7,393
+"Italian, Continental, American",1,,0
+"American, Continental, Italian, North Indian, Asian",1,3.7,4914
+"Italian, Continental, Chinese",1,4.1,594
+"Italian, Continental, Chinese, Mexican",1,4.1,204
+"Italian, Continental, Chinese, North Indian",1,3.3,65
+"American, Continental, North Indian, Chinese",1,3.7,379
+"Italian, Continental, Fast Food, Chinese",1,3.4,50
+"Italian, Continental, Fast Food, North Indian",1,,3
+"Italian, Continental, Finger Food",1,3.3,50
+"Italian, Continental, Goan",1,3.7,1221
+"Italian, Continental, Mexican, Cafe, Bakery",1,4.4,843
+"Italian, Continental, Mexican, Japanese, American, British",1,3.9,885
+"Italian, Continental, Mexican, Lebanese",1,4.1,178
+"Italian, Continental, Mexican, North Indian",1,3.9,1316
+"Italian, Continental, North Indian",1,3.9,96
+"Italian, Continental, North Indian, Cafe",1,4.2,217
+"American, Desserts, Diner",1,3.9,161
+"Italian, Deli",1,4.9,1424
+"American, Desserts, Steak",1,4.7,3157
+"Italian, European, Cafe",1,4.0,1093
+"American, Diner, Southern",1,4.3,244
+"Italian, Fast Food, North Indian, Chinese",1,3.3,47
+"Italian, Fast Food, South Indian",1,,0
+"Italian, French",1,4.1,711
+"Italian, French, Bakery, Cafe",1,3.2,29
+"Italian, French, Cafe",1,4.5,280
+"Italian, French, European, Cafe",1,3.7,774
+"Italian, Fusion, Cafe",1,3.8,93
+"Italian, German, Continental",1,4.0,1583
+"Italian, Lebanese, Fast Food, Bakery",1,3.6,29
+"Italian, Lebanese, Mexican",1,3.6,66
+"Italian, Lebanese, North Indian",1,3.5,278
+"Italian, Mediterranean",1,3.8,1347
+"American, European",1,4.2,578
+"American, European, North Indian",1,3.5,259
+"Italian, Mediterranean, Sushi, Desserts",1,4.1,232
+"Italian, Mexican",1,3.5,40
+"Italian, Mexican, American, Mediterranean",1,4.2,1103
+"Italian, Mexican, Cafe",1,3.6,296
+"Italian, Mexican, Chinese",1,3.8,79
+"Italian, Mexican, Chinese, Thai, North Indian",1,4.0,1820
+"Italian, Mexican, Continental",1,4.4,276
+"Italian, Mexican, Continental, North Indian, Finger Food",1,4.0,817
+"Italian, Mexican, Lebanese, Continental",1,3.8,170
+"Italian, Mexican, Mediterranean",1,4.2,319
+"Italian, Mexican, Spanish, Thai, Vietnamese, Indonesian, American",1,4.3,130
+"American, European, Sandwich",1,4.2,350
+"Italian, North Indian, Chinese",1,3.4,431
+"American, Fast Food, Desserts",1,4.0,154
+"American, Fast Food, Desserts, Steak",1,3.3,14
+"Italian, North Indian, Desserts",1,4.0,215
+"Italian, North Indian, Desserts, Continental",1,4.1,164
+"Italian, North Indian, South Indian",1,3.7,262
+"American, Fast Food, Steak, Beverages",1,4.2,286
+"American, Finger Food",1,3.3,145
+"Italian, Pizza, Beverages, Desserts, Grill, Seafood",1,4.4,499
+"Italian, Pizza, Cafe",1,3.8,101
+"American, French",1,3.7,201
+"Italian, Pizza, Lebanese",1,3.3,218
+"American, Greek",1,3.7,152
+"Italian, Pizza, Seafood",1,3.7,292
+"Italian, Pizza, Vegetarian",1,3.7,134
+"Italian, Seafood, Mediterranean, Desserts, Cafe",1,4.3,658
+"Italian, Seafood, Vegetarian",1,4.4,360
+"Italian, Tex-Mex, Continental, North Indian",1,3.9,886
+"Italian, World Cuisine",1,3.7,661
+"American, Greek, Seafood",1,4.0,316
+"Japanese, American, North Indian, Fast Food",1,3.5,83
+"American, Grill",1,4.0,10
+"Japanese, Asian, Seafood, Sushi",1,4.0,110
+"Japanese, Chinese",1,3.4,24
+"American, Hawaiian",1,4.5,695
+"Japanese, Chinese, Asian, Thai",1,3.7,128
+"Japanese, Chinese, Malaysian, Thai, Vietnamese",1,3.3,60
+"American, Ice Cream, Desserts",1,4.2,488
+"Japanese, Chinese, Thai, Malaysian, Burmese, Asian",1,4.1,300
+"Japanese, French",1,3.1,10
+"American, International, Southwestern",1,3.6,30
+"Japanese, Seafood, Sushi",1,4.2,807
+"Japanese, Steak",1,3.9,247
+"American, International, Sushi",1,3.8,220
+"American, Italian, Bakery, Deli, Burger, Sandwich, Pizza",1,3.8,25
+"Japanese, Sushi, Asian",1,3.9,239
+"Japanese, Sushi, Ramen",1,4.4,841
+"Japanese, Sushi, Teriyaki",1,4.1,393
+"American, Italian, Cafe",1,3.6,480
+"Japanese, Thai, Chinese",1,3.0,57
+"American, Italian, Chinese",1,4.1,353
+"Japanese, Thai, Sushi",1,3.9,290
+"Japanese, Tibetan, Vietnamese, Korean",1,3.8,115
+"American, Italian, Chinese, North Indian, Cafe",1,3.7,833
+"Juices, Beverages",1,3.5,18
+"Juices, Beverages, Fast Food",1,3.0,10
+"Juices, Beverages, Healthy Food",1,4.3,217
+"American, Italian, Mughlai, North Indian",1,3.5,140
+"Juices, Fast Food",1,,1
+"American, Italian, North Indian, Chinese",1,,3
+"American, Italian, North Indian, Chinese, Lebanese",1,3.6,1428
+"Kashmiri, Chinese",1,3.1,6
+"Kashmiri, Chinese, Mughlai",1,3.3,89
+"Kashmiri, Mughlai",1,4.2,146
+"Kashmiri, North Indian",1,2.9,4
+"Kashmiri, North Indian, Mughlai, South Indian, Maharashtrian, Gujarati",1,4.4,676
+"American, Italian, North Indian, European, Thai",1,4.2,361
+"American, Japanese, Singaporean",1,3.2,30
+"Kebab, Izgara",1,4.4,296
+"American, Japanese, Sushi",1,4.6,214
+"Kebab, Turkish Pizza, D�_ner",1,4.4,72
+"American, Mediterranean, Seafood",1,3.7,98
+"American, Mexican, Finger Food",1,4.2,107
+"Kerala, Fast Food",1,3.7,105
+"Kerala, Indian, Chinese, Bakery",1,4.0,322
+"American, Mexican, Seafood",1,4.0,205
+"Kerala, South Indian, Chinese, Biryani",1,3.5,348
+"Kerala, South Indian, Continental, North Indian, Seafood, Chinese",1,4.3,722
+"Kiwi, European",1,4.2,271
+"American, North Indian, European, Asian",1,3.7,3697
+"Korean, Beverages, Desserts",1,3.9,179
+"Korean, Chinese",1,3.0,21
+"Korean, Japanese, Chinese, Asian",1,3.6,38
+"American, North Indian, Thai, Continental",1,3.8,74
+"Latin American, Italian",1,4.0,40
+"Latin American, Mexican",1,3.2,113
+"American, Pizza",1,3.7,191
+"Latin American, Steak",1,4.1,538
+"American, Sandwich, Salad",1,4.7,1341
+"American, Sandwich, Seafood",1,4.4,239
+"Lebanese, Arabian, Middle Eastern",1,4.0,380
+"American, Sandwich, Tea",1,4.9,1457
+"Lebanese, Chinese",1,3.2,159
+"Lebanese, Chinese, Fast Food",1,2.4,30
+"Lebanese, Italian",1,4.3,479
+"Lebanese, Mediterranean, Arabian",1,3.5,246
+"American, Seafood",1,4.1,293
+"Lebanese, North Indian",1,3.4,165
+"Lebanese, North Indian, Fast Food",1,,0
+"American, Seafood, Cajun",1,4.6,489
+"Lucknowi, Biryani",1,3.1,9
+"Lucknowi, Mughlai",1,2.2,182
+"Lucknowi, Mughlai, North Indian",1,,0
+"American, Seafood, Italian, Japanese, Thai",1,3.5,57
+"American, Seafood, Southern",1,4.4,1803
+"Malaysian, Indonesian",1,4.4,77
+"Malaysian, North Indian, Sri Lankan",1,3.5,80
+"Malaysian, Thai",1,3.6,64
+"Malaysian, Thai, Kerala, Vietnamese, Sri Lankan",1,4.0,259
+"Malwani, North Indian, Chinese, Seafood",1,3.5,77
+"American, Seafood, Sushi",1,4.0,1270
+"American, Southern, Southwestern",1,4.5,1821
+"Mediterranean, Asian, Continental, North Indian, Arabian",1,4.6,154
+"Mediterranean, Cafe, European",1,4.2,146
+"Mediterranean, Chinese, Continental",1,4.3,87
+"Mediterranean, Continental",1,4.2,144
+"Mediterranean, Continental, Italian",1,3.7,234
+"Mediterranean, Continental, North Indian, Italian",1,3.5,218
+"Mediterranean, European",1,3.1,15
+"Mediterranean, European, American, North Indian",1,3.8,1046
+"American, Tapas",1,4.1,302
+"Mediterranean, Italian, American",1,4.3,124
+Andhra,1,3.4,139
+"Andhra, North Indian, Chinese",1,3.5,124
+"Mediterranean, Italian, Thai, European",1,3.9,927
+"Mediterranean, Mexican, North Indian, American",1,4.1,1949
+"Mediterranean, Mughlai, Thai, North Indian, Chinese",1,3.5,19
+"Mediterranean, Seafood",1,4.4,381
+"Mediterranean, Tapas, Vegetarian",1,4.0,380
+"Mediterranean, Turkish",1,4.2,568
+"Andhra, North Indian, Chinese, Seafood, Biryani",1,3.6,154
+"Mexican, American",1,4.2,420
+"Mexican, American, Healthy Food",1,4.9,223
+Arabian,1,3.7,8
+"Mexican, American, Tex-Mex",1,4.5,1439
+"Arabian, Lebanese",1,3.1,82
+"Arabian, Mexican",1,3.5,95
+"Mexican, Grill",1,4.3,29
+"Arabian, Middle Eastern",1,4.2,444
+"Mexican, Italian, American",1,3.9,105
+"Mexican, Italian, Fast Food",1,3.4,55
+"Mexican, Italian, North Indian, Chinese",1,3.6,254
+"Mexican, Italian, North Indian, Continental, Asian",1,3.3,191
+"Mexican, Lebanese, Italian, Continental, Thai",1,3.1,7
+"Mexican, North Indian",1,3.7,57
+"Mexican, North Indian, European, Chinese, Italian",1,3.4,35
+"Mexican, Southwestern, Sushi",1,4.2,647
+"Mexican, Southwestern, Tex-Mex",1,4.2,635
+"Mexican, Spanish",1,4.1,543
+"Mexican, Tex-Mex",1,3.9,66
+"Mexican, Vegetarian",1,4.5,1868
+"Middle Eastern, Arabian",1,4.2,158
+"Arabian, North Indian",1,2.9,7
+"Argentine, American",1,4.5,602
+"Asian Fusion, Cafe",1,4.2,61
+"Mithai, Bakery, North Indian",1,,1
+"Mithai, Bakery, Street Food",1,2.8,5
+"Mithai, Bakery, Street Food, Chinese, South Indian",1,3.0,8
+"Mithai, Beverages",1,3.4,23
+"Asian Fusion, Pub Food, Fusion, Asian, Filipino, Malaysian, Thai",1,3.5,86
+"Mithai, Chinese, Street Food",1,3.8,83
+"Asian, Bakery",1,2.8,21
+"Asian, Breakfast, Hawaiian",1,4.2,874
+"Mithai, North Indian, Chinese",1,2.9,4
+"Asian, Burmese",1,4.6,563
+"Mithai, North Indian, South Indian",1,3.7,59
+"Mithai, North Indian, South Indian, Chinese",1,3.2,50
+"Mithai, North Indian, South Indian, Chinese, Bakery",1,3.3,13
+"Mithai, North Indian, South Indian, Chinese, Fast Food",1,2.7,28
+"Asian, Chinese, Japanese",1,4.2,316
+"Mithai, North Indian, South Indian, Chinese, Street Food, Bakery",1,,0
+"Mithai, North Indian, South Indian, Fast Food, Street Food, Chinese",1,3.8,966
+"Asian, Chinese, North Indian",1,3.8,61
+"Mithai, North Indian, South Indian, Street Food, Chinese",1,3.3,36
+"Mithai, North Indian, Street Food",1,,1
+"Mithai, North Indian, Street Food, Chinese, South Indian, Indian",1,2.9,4
+"Mithai, South Indian",1,3.3,32
+"Mithai, South Indian, Chinese, Street Food",1,,0
+"Mithai, South Indian, Chinese, Street Food, North Indian",1,2.9,26
+"Asian, Chinese, Thai, Japanese",1,4.7,268
+"Asian, Chinese, Thai, Malaysian, Indonesian, Burmese",1,3.8,24
+"Asian, Chinese, Thai, Vietnamese",1,4.2,264
+"Asian, Chinese, Tibetan",1,4.1,25
+"Asian, Chinese, Vegetarian",1,3.9,141
+"Mithai, Street Food, North Indian, South Indian",1,,1
+"Mithai, Street Food, North Indian, South Indian, Chinese",1,2.7,16
+"Mithai, Street Food, North Indian, South Indian, Chinese, Fast Food, Beverages",1,3.2,63
+"Mithai, Street Food, South Indian, Chinese, North Indian",1,2.7,83
+"Asian, Continental",1,3.5,89
+"Modern Australian, Australian",1,4.4,339
+"Asian, Continental, Fast Food",1,4.5,76
+"Modern Indian, Asian",1,3.9,67
+"Asian, Continental, Italian, North Indian",1,3.0,579
+"Asian, Continental, Seafood",1,3.8,30
+"Mughlai, Afghani",1,2.8,25
+"Asian, European, Seafood",1,4.2,531
+"Asian, Indonesian, Western",1,4.6,873
+"Mughlai, Chinese, Cafe, BBQ, Cajun",1,3.6,84
+"Asian, Japanese",1,3.1,6
+"Mughlai, Continental, Chinese",1,3.1,8
+"Asian, Japanese, Chinese, Thai",1,3.9,2003
+"Mughlai, Fast Food, North Indian",1,2.4,41
+"Mughlai, Hyderabadi",1,4.1,84
+"Mughlai, Italian, Finger Food, Middle Eastern",1,3.3,199
+"Mughlai, Lucknowi",1,4.9,1057
+"Asian, Japanese, Korean, Thai, Chinese",1,4.1,188
+"Asian, Japanese, Sushi",1,4.2,550
+"Mughlai, North Indian, Bengali, Continental",1,2.7,135
+"Asian, Latin American, Vegetarian",1,4.4,570
+"Mughlai, North Indian, South Indian",1,3.9,265
+"Mughlai, Pakistani, North Indian",1,3.8,665
+"Mughlai, Street Food",1,4.4,305
+"Asian, Mediterranean, North Indian",1,4.4,983
+"Naga, Chinese",1,3.1,7
+"Naga, Tibetan",1,3.4,15
+"Naga, Tibetan, Chinese, Bakery",1,3.0,4
+"Asian, North Indian, Continental",1,3.5,104
+"Nepalese, Tibetan",1,,0
+New American,1,3.6,144
+"New American, Tapas",1,4.6,1293
+"Asian, North Indian, Japanese",1,2.9,48
+"North Eastern, Continental, South Indian, Fast Food",1,3.5,194
+"North Eastern, North Indian",1,3.0,6
+"North Eastern, North Indian, Chinese",1,,1
+"Asian, North Indian, Mughlai",1,,1
+"North Indian, Afghani",1,2.6,15
+"North Indian, Afghani, Mughlai",1,4.3,104
+"North Indian, American, Asian, Biryani",1,4.7,69
+"North Indian, American, Chinese",1,4.1,501
+"North Indian, American, Italian",1,2.8,91
+"North Indian, Andhra, Chettinad, Bengali, Mughlai, Chinese",1,4.1,1431
+"North Indian, Andhra, Mughlai",1,3.7,393
+"Asian, Seafood",1,4.1,105
+"Asian, Sushi",1,4.1,695
+"Asian, Sushi, Seafood",1,4.5,166
+"North Indian, Asian, Italian",1,4.0,242
+"North Indian, Awadhi",1,,1
+"Asian, Sushi, Tapas",1,4.3,180
+"North Indian, Beverages",1,2.7,16
+"Asian, Sushi, Thai",1,4.1,496
+"North Indian, Biryani, Chinese",1,3.0,8
+"Asian, Sushi, Vegetarian",1,3.6,132
+"North Indian, Biryani, Fast Food",1,2.6,41
+"North Indian, Biryani, Fast Food, Chinese",1,2.7,23
+"North Indian, Biryani, Mughlai",1,3.3,157
+"North Indian, Cafe",1,3.4,85
+"North Indian, Cafe, Italian, Mexican, Continental",1,3.8,63
+"Asian, Thai, Chinese, North Indian",1,3.1,80
+"North Indian, Chinese, Arabian",1,3.8,519
+"North Indian, Chinese, Bakery",1,2.2,64
+"North Indian, Chinese, Biryani",1,2.7,14
+"Asian, Thai, Vegetarian",1,4.0,303
+"Asian, Vegetarian, Vietnamese",1,3.8,182
+"North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",1,3.8,432
+"Asian, Vegetarian, Vietnamese, Bubble Tea",1,4.4,659
+"North Indian, Chinese, Continental, Goan, Seafood",1,3.8,911
+Assamese,1,,2
+"North Indian, Chinese, Continental, Italian, Burger",1,3.4,502
+"North Indian, Chinese, Continental, Italian, Mexican",1,3.4,94
+"North Indian, Chinese, Continental, Italian, Mexican, Lebanese",1,3.5,349
+"North Indian, Chinese, Continental, Mediterranean, Asian",1,3.7,238
+Australian,1,4.1,87
+"North Indian, Chinese, Continental, Pizza",1,3.7,665
+"North Indian, Chinese, Continental, Rajasthani",1,4.5,420
+"North Indian, Chinese, Continental, Seafood",1,3.4,218
+Awadhi,1,,1
+"Awadhi, Mughlai",1,,0
+"North Indian, Chinese, Fast Food, Cafe",1,3.9,288
+"North Indian, Chinese, Fast Food, Desserts",1,2.9,4
+"North Indian, Chinese, Fast Food, Mithai",1,2.9,56
+"North Indian, Chinese, Fast Food, South Indian",1,2.9,6
+"Awadhi, Mughlai, North Indian",1,,1
+"Awadhi, North Indian",1,,2
+"Awadhi, North Indian, Mughlai",1,3.8,86
+"North Indian, Chinese, Italian, American, Middle Eastern",1,4.2,961
+"BBQ, Breakfast, Southern",1,4.9,249
+"BBQ, Burger, Desserts",1,4.5,1025
+"North Indian, Chinese, Italian, Finger Food",1,3.4,220
+"North Indian, Chinese, Italian, Lebanese, Mexican",1,4.0,277
+"North Indian, Chinese, Italian, Mediterranean",1,3.6,877
+"North Indian, Chinese, Italian, Mexican",1,4.0,203
+"North Indian, Chinese, Italian, Mexican, Lebanese",1,4.0,537
+"North Indian, Chinese, Italian, Street Food, Desserts",1,4.3,753
+"North Indian, Chinese, Italian, Thai",1,,0
+"North Indian, Chinese, Kashmiri",1,,3
+"BBQ, Caribbean, Cajun",1,4.5,674
+"North Indian, Chinese, Mediterranean, Asian, Continental",1,3.9,1088
+"BBQ, Caribbean, Seafood",1,4.6,1321
+"North Indian, Chinese, Mexican, Italian",1,4.4,1484
+"North Indian, Chinese, Mexican, Italian, Thai, Lebanese",1,4.4,317
+"North Indian, Chinese, Mexican, Lebanese, Italian, Fast Food",1,2.5,120
+"BBQ, Grill, Brazilian",1,4.3,39
+"North Indian, Chinese, Mughlai, Continental",1,3.5,133
+"BBQ, Sandwich",1,4.1,182
+"North Indian, Chinese, Mughlai, Italian",1,3.8,1158
+"North Indian, Chinese, Mughlai, South Indian",1,3.1,16
+"BBQ, Southern",1,4.0,353
+"North Indian, Chinese, Seafood",1,3.4,67
+"North Indian, Chinese, Seafood, Chettinad",1,3.5,168
+"Bakery, Arabian, Middle Eastern",1,4.2,142
+"North Indian, Chinese, South Indian, Bakery",1,2.9,6
+"Bakery, Beverages",1,3.4,57
+"Bakery, Beverages, Fast Food",1,3.6,40
+"North Indian, Chinese, South Indian, Italian",1,3.9,272
+"Bakery, Cafe, Fast Food",1,4.3,87
+"Bakery, Chinese, North Indian",1,,0
+"North Indian, Chinese, South Indian, Street Food, Fast Food, Mithai",1,3.4,110
+"North Indian, Chinese, South Indian, Street Food, Mithai",1,2.4,166
+"North Indian, Chinese, Sri Lankan",1,2.4,240
+"Bakery, Desserts, Bakery",1,3.1,6
+"North Indian, Chinese, Street Food, Fast Food",1,2.5,12
+"North Indian, Chinese, Street Food, Mithai",1,3.4,22
+"Bakery, Desserts, Fast Food, Beverages",1,4.2,729
+"North Indian, Chinese, Thai, Continental",1,3.6,328
+"North Indian, Chinese, Thai, Italian, Middle Eastern",1,3.5,384
+"North Indian, Chinese, Thai, Mexican, Italian",1,3.9,191
+"North Indian, Chinese, Tibetan",1,,0
+"North Indian, Chinese, Tibetan, Italian, Fast Food",1,3.2,18
+"North Indian, Chinese, Turkish",1,3.8,263
+"Bakery, Desserts, Fast Food, Mithai",1,,0
+"Bakery, Desserts, Fast Food, North Indian",1,3.5,105
+"North Indian, Continental, Asian, Chinese, Thai",1,3.6,305
+"North Indian, Continental, Asian, Italian",1,3.9,93
+"North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean",1,4.5,1138
+"Bakery, Desserts, Fast Food, Pizza, Burger, Continental",1,3.6,34
+"North Indian, Continental, Chinese, Fast Food",1,2.7,24
+"Bakery, Desserts, Fast Food, Pizza, Burger, Finger Food",1,3.4,33
+"North Indian, Continental, Chinese, Italian, Lebanese",1,3.7,49
+"North Indian, Continental, Chinese, Italian, Mexican",1,4.3,1121
+"Bakery, Desserts, Fast Food, Street Food, Chinese, Beverages",1,3.4,179
+"North Indian, Continental, Chinese, Japanese, Italian, Thai",1,3.9,490
+"North Indian, Continental, Chinese, Mexican, Italian, Desserts",1,2.6,46
+"North Indian, Continental, Chinese, Seafood",1,4.3,2191
+"North Indian, Continental, Chinese, South Indian",1,3.7,43
+"North Indian, Continental, European",1,3.5,706
+"North Indian, Continental, European, American, Mediterranean",1,4.2,69
+"North Indian, Continental, European, Chinese, Thai",1,4.3,400
+"Bakery, Desserts, Healthy Food",1,,2
+"Bakery, Desserts, Ice Cream",1,3.4,66
+"Bakery, Desserts, North Indian, Bengali, South Indian",1,3.5,37
+"Bakery, Fast Food, Beverages",1,3.4,17
+"North Indian, Continental, Italian, Asian",1,4.0,93
+"Bakery, Fast Food, Pizza",1,3.1,8
+"North Indian, Continental, Italian, Finger Food",1,3.8,227
+"North Indian, Continental, Italian, Thai, Chinese",1,3.4,198
+"North Indian, Continental, Lebanese",1,3.5,24
+"Bakery, Fast Food, Street Food",1,2.9,7
+"North Indian, Continental, Mughlai",1,3.0,8
+"Bakery, French",1,4.1,791
+"North Indian, Continental, Salad",1,3.6,43
+"North Indian, Continental, South Indian, Chinese",1,,1
+"North Indian, Continental, South Indian, Chinese, Thai, Asian",1,4.2,149
+"North Indian, Continental, Thai, Chinese",1,3.5,326
+"Bakery, Healthy Food",1,,0
+"North Indian, European, Asian",1,3.7,42
+"Bakery, Italian, Fast Food, Chinese, Continental",1,2.9,10
+"North Indian, European, Chinese",1,3.4,570
+"North Indian, European, Continental",1,3.9,696
+"North Indian, European, Continental, Finger Food",1,3.9,676
+"Bakery, Mithai, Fast Food",1,2.9,10
+"North Indian, European, Mediterranean, Asian",1,3.8,117
+"North Indian, European, South Indian",1,3.6,43
+"Bakery, North Indian",1,,0
+"North Indian, Fast Food, Afghani",1,3.0,4
+"North Indian, Fast Food, Bihari",1,3.1,6
+"North Indian, Fast Food, Biryani",1,2.9,15
+"Bakery, Pizza",1,,0
+"North Indian, Fast Food, Chinese, Biryani, Mughlai",1,3.8,418
+"North Indian, Fast Food, Chinese, Continental",1,2.9,4
+"North Indian, Fast Food, Chinese, Japanese, Asian, Italian",1,2.9,32
+"North Indian, Fast Food, Chinese, Mithai",1,2.7,16
+"North Indian, Fast Food, Chinese, South Indian",1,3.2,39
+"North Indian, Fast Food, Continental",1,3.4,246
+"Bakery, Sandwich, Brazilian",1,4.4,13
+"North Indian, Fast Food, Italian, Chinese, Cafe",1,3.8,280
+"North Indian, Fast Food, Mithai",1,,1
+"Bar Food, Modern Australian",1,3.8,176
+"Bar Food, Sandwich, Seafood",1,4.0,456
+"North Indian, Fast Food, Street Food",1,3.7,142
+"Bar Food, Seafood, Vegetarian",1,4.1,171
+"North Indian, Finger Food, Italian, Chinese",1,3.8,121
+"North Indian, French, Continental",1,3.8,456
+"North Indian, Greek, Mughlai",1,3.2,14
+"North Indian, Healthy Food, Rajasthani",1,3.1,10
+"North Indian, Hyderabadi",1,3.3,71
+"North Indian, Hyderabadi, Kashmiri, Chinese",1,4.0,460
+"North Indian, Indian",1,,0
+"Bar Food, Steak",1,3.5,25
+"North Indian, Italian, Asian, American",1,4.4,840
+"North Indian, Italian, Asian, South Indian",1,4.1,192
+"Bengali, Chinese",1,,0
+"North Indian, Italian, Chinese, American",1,4.4,391
+"Bengali, Fast Food",1,3.2,27
+"Bengali, South Indian, North Indian, Mughlai",1,3.9,66
+"North Indian, Italian, Chinese, Thai",1,3.4,391
+"Beverages, Bar Food, Fast Food",1,4.5,29
+"North Indian, Italian, Continental, Asian",1,4.2,162
+"North Indian, Italian, Continental, Chinese",1,3.3,1363
+"Beverages, Healthy Food",1,,0
+"North Indian, Italian, Finger Food",1,3.9,156
+"North Indian, Italian, Mexican",1,2.7,24
+"North Indian, Italian, Mexican, Asian",1,3.8,87
+"North Indian, Italian, Mexican, Chettinad, Chinese, Lebanese",1,3.9,1286
+"North Indian, Italian, Parsi, Asian, Kerala",1,4.4,146
+"North Indian, Japanese, Italian",1,4.3,860
+"North Indian, Kashmiri",1,3.2,14
+"North Indian, Kashmiri, Chinese, Thai, Korean",1,3.9,295
+"North Indian, Kashmiri, Mughlai",1,2.6,67
+"North Indian, Kerala, Chinese, Continental",1,4.2,394
+"North Indian, Lebanese, European, Mexican",1,3.9,299
+"North Indian, Lebanese, Mexican, Asian, Italian, American, European",1,4.0,1203
+"North Indian, Lucknowi",1,,3
+"Beverages, Ice Cream",1,3.1,7
+"North Indian, Mangalorean, Chinese",1,4.0,345
+"Beverages, International",1,4.8,59
+"North Indian, Mediterranean, Asian, Arabian",1,4.6,1267
+"North Indian, Mediterranean, Asian, Chinese",1,4.4,66
+"North Indian, Mediterranean, Asian, Continental",1,3.9,3413
+"North Indian, Mediterranean, Asian, Fast Food",1,4.3,1129
+"North Indian, Mediterranean, Chinese",1,3.6,1566
+"Beverages, Juices",1,3.1,9
+"North Indian, Mediterranean, European, Asian, Chinese, Pizza",1,3.8,305
+"North Indian, Mexican, Chinese, Italian",1,3.9,605
+"North Indian, Mexican, Italian",1,4.3,155
+"North Indian, Mexican, Italian, Continental",1,3.9,1379
+"North Indian, Middle Eastern, Pizza",1,4.2,843
+"Beverages, Salad",1,4.3,154
+"North Indian, Mithai, Chinese",1,,0
+"North Indian, Mithai, Chinese, Street Food",1,3.8,40
+"North Indian, Mithai, South Indian, Street Food, Chinese",1,2.4,37
+"North Indian, Mithai, South Indian, Street Food, Fast Food",1,2.7,11
+"Beverages, Salad, Beverages",1,4.3,33
+"Beverages, Street Food",1,3.2,11
+"North Indian, Mughlai, Armenian",1,,0
+"North Indian, Mughlai, Asian, Continental",1,3.9,1365
+"Bihari, Lucknowi, North Indian",1,4.0,226
+"Biryani, Andhra",1,4.0,169
+"North Indian, Mughlai, Biryani, Bengali",1,3.5,443
+"Biryani, Chinese, North Indian",1,2.8,5
+"North Indian, Mughlai, Chinese, Bakery",1,3.7,281
+"Biryani, Kerala",1,3.2,13
+"North Indian, Mughlai, Chinese, Continental, Fast Food",1,2.8,10
+"Biryani, Lucknowi, North Indian",1,3.4,165
+"Biryani, Mughlai, Bengali, North Indian",1,3.7,89
+"North Indian, Mughlai, Chinese, Mangalorean",1,3.7,173
+"North Indian, Mughlai, Chinese, Raw Meats",1,2.9,25
+"Biryani, North Indian, Chinese, Mughlai",1,4.6,1219
+"Biryani, North Indian, Fast Food",1,2.7,18
+"Biryani, Pizza, Fast Food, Healthy Food",1,,1
+"North Indian, Mughlai, Continental, Chinese",1,3.7,213
+"Brazilian, Bar Food, Beverages",1,4.6,58
+"North Indian, Mughlai, Fast Food, South Indian",1,3.3,26
+"North Indian, Mughlai, Hyderabadi",1,3.3,13
+"North Indian, Mughlai, Italian, Chinese",1,3.5,247
+"North Indian, Mughlai, Kashmiri",1,3.5,208
+"North Indian, Mughlai, Lebanese",1,3.8,300
+"North Indian, Mughlai, Lebanese, Arabian, Mediterranean",1,4.0,41
+"North Indian, Mughlai, Mexican, Thai",1,4.1,395
+"North Indian, Mughlai, Mughlai",1,,2
+"North Indian, Mughlai, Nepalese, Tibetan, Korean",1,,2
+"Brazilian, Cafe",1,,2
+"Brazilian, Grill",1,3.9,5
+"North Indian, Mughlai, South Indian, Chinese",1,3.1,25
+"North Indian, Mughlai, South Indian, Rajasthani, Street Food",1,3.6,496
+"North Indian, North Eastern, Continental",1,4.2,306
+"Brazilian, Healthy Food, Juices, Pizza",1,4.6,21
+"North Indian, Rajasthani, Asian",1,4.0,157
+"North Indian, Rajasthani, Gujarati",1,,1
+"North Indian, Seafood",1,,0
+"North Indian, Seafood, Bengali",1,3.3,15
+"North Indian, Seafood, Continental",1,3.4,45
+"North Indian, Seafood, South Indian, Italian",1,3.8,192
+"Brazilian, Italian",1,4.3,46
+"North Indian, South Indian, Asian, Continental",1,3.6,375
+"North Indian, South Indian, Bakery, Beverages",1,,2
+"North Indian, South Indian, Bakery, Italian",1,,1
+"North Indian, South Indian, Bihari",1,4.5,2213
+"Brazilian, Mineira",1,,2
+"Brazilian, North Eastern",1,4.4,22
+"North Indian, South Indian, Chinese, Fast Food, Bakery, Mithai",1,,0
+"Brazilian, Seafood",1,4.2,8
+"North Indian, South Indian, Chinese, Healthy Food, Bakery",1,,0
+"Brazilian, Steak",1,4.6,2324
+"North Indian, South Indian, Chinese, Mithai, Fast Food",1,3.1,117
+"North Indian, South Indian, Chinese, Mughlai",1,2.4,137
+"Breakfast, Burger, Sandwich",1,3.7,289
+"North Indian, South Indian, Chinese, Street Food, Fast Food",1,2.6,45
+"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai",1,2.4,77
+"Breakfast, Cajun",1,4.1,802
+"Breakfast, Coffee and Tea, Modern Australian",1,3.7,351
+"North Indian, South Indian, Continental, Fast Food",1,3.0,5
+"Breakfast, Diner",1,3.6,253
+"Breakfast, Diner, Sandwich",1,4.3,710
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Mithai",1,3.2,129
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Desserts, Mithai",1,2.8,42
+"North Indian, South Indian, Fast Food, Street Food, Chinese, Mithai",1,3.4,81
+"Breakfast, Diner, Southern",1,3.7,123
+"North Indian, South Indian, Gujarati, Rajasthani",1,3.4,233
+"North Indian, South Indian, Italian, Chinese",1,,0
+"North Indian, South Indian, Italian, Continental, Mediterranean, Lebanese, Desserts",1,3.3,10
+"North Indian, South Indian, Mithai",1,,0
+"Breakfast, French",1,3.8,332
+"Breakfast, Mexican",1,4.5,1203
+"Breakfast, Mexican, Southwestern",1,4.0,214
+"North Indian, South Indian, Street Food, Chinese, Fast Food, Mithai",1,2.1,121
+"North Indian, South Indian, Street Food, Fast Food, Mithai",1,2.5,85
+"Breakfast, Modern Australian",1,4.1,40
+"North Indian, Spanish, Mediterranean",1,3.9,555
+"Breakfast, Pizza",1,3.5,119
+"North Indian, Street Food, Beverages",1,3.8,120
+"North Indian, Street Food, Chinese",1,3.2,21
+"North Indian, Street Food, Chinese, South Indian",1,2.5,49
+"North Indian, Street Food, Chinese, South Indian, Mithai",1,3.6,85
+"Breakfast, Spanish, Tapas",1,4.4,1007
+"North Indian, Street Food, Fast Food, Chinese, South Indian, Mithai",1,3.0,4
+"North Indian, Chinese, Mexican, Beverages",1,3.8,424
+"North Indian, Street Food, Mughlai",1,3.5,206
+"Breakfast, Vegetarian",1,4.2,680
+"North Indian, Street Food, South Indian, Mithai",1,3.3,205
+"British, Bar Food, Sandwich",1,4.1,1020
+"North Indian, Thai, Italian, Chinese, Mexican",1,3.5,96
+"North Indian, Tibetan",1,3.7,154
+"British, Burger, Cafe",1,4.1,82
+"British, Cafe",1,3.8,38
+"Pakistani, Afghani, Indian, Hyderabadi",1,4.0,277
+"Pakistani, Chinese, Indian, Afghani",1,4.1,192
+"British, Chinese, Italian",1,3.8,244
+"Pakistani, Indian, Afghani, Curry",1,3.9,150
+"Pakistani, Indian, Mughlai",1,4.2,504
+"British, French",1,4.4,275
+"British, Scottish, Seafood",1,4.1,200
+"Parsi, North Indian",1,4.2,40
+"Patisserie, Coffee and Tea",1,3.4,115
+"Peranakan, Indonesian",1,4.0,1159
+"Persian, Arabian, Lebanese, North Indian",1,4.6,177
+"Peruvian, Latin American",1,3.6,5
+"British, Steak",1,4.0,133
+"Burger, American, Beverages",1,3.8,57
+"Pizza, Bar Food, Sandwich",1,3.7,147
+"Pizza, Burger, Fast Food",1,,2
+"Burger, American, Fast Food, Italian, Pizza",1,4.5,162
+"Pizza, Chinese",1,3.7,149
+"Pizza, Continental, Beverages",1,3.3,15
+"Pizza, Desserts",1,3.1,4
+"Burger, American, Grill",1,4.1,298
+"Pizza, Fast Food, Bakery",1,,1
+"Pizza, Fast Food, Chinese",1,3.4,17
+"Pizza, Grill",1,3.7,22
+"Pizza, Ice Cream",1,,0
+"Burger, Bar Food, Southern",1,3.8,149
+"Pizza, Italian, Beverages, Desserts",1,4.3,731
+"Pizza, Italian, Cafe",1,3.9,1503
+"Pizza, Italian, Fast Food",1,3.6,111
+"Pizza, Mexican, Chinese, Italian",1,4.0,259
+"Pizza, North Indian",1,3.5,47
+"Pizza, North Indian, Continental",1,3.4,42
+"Pizza, Salad, Finger Food",1,3.4,27
+"Burger, Bar Food, Steak",1,4.9,2238
+"Pizza, Sandwich, Vegetarian",1,3.8,323
+"Pizza, Seafood, Steak",1,4.0,687
+"Burger, Bar Food, Vegetarian",1,3.8,281
+"Portuguese, African, Lebanese",1,4.0,322
+Pub Food,1,4.4,1998
+"Burger, Coffee and Tea, Modern Australian",1,3.7,100
+"Rajasthani, Gujarati, Mughlai",1,3.6,59
+"Rajasthani, North Indian",1,3.4,69
+"Ramen, Japanese",1,4.6,418
+"Burger, Desserts",1,3.9,101
+"Burger, Desserts, Bar Food",1,4.5,289
+"Burger, Desserts, Sandwich",1,3.6,41
+"Burger, Desserts, Vegetarian",1,4.2,943
+"Raw Meats, North Indian, Chinese",1,,2
+"Raw Meats, North Indian, Chinese, Fast Food",1,3.7,280
+"Burger, Fast Food, Chinese, Bakery",1,3.0,41
+"Raw Meats, Street Food",1,,0
+"Burger, Fast Food, Desserts, Beverages",1,4.0,265
+"Restaurant Cafe, Desserts",1,4.2,874
+"Restaurant Cafe, Turkish, Desserts",1,4.2,877
+"Salad, Continental",1,4.1,43
+"Salad, Healthy Food, Burger, Italian, Continental, Chinese, North Indian, Beverages",1,3.1,25
+Sandwich,1,4.1,350
+"Burger, Fast Food, Grill",1,3.6,131
+"Sandwich, Seafood, Steak",1,4.5,844
+"Sandwich, Sushi, Tapas",1,3.6,114
+"Scottish, Cafe",1,4.7,163
+"Burger, Finger Food, Pizza",1,4.0,861
+"Seafood, African, Sushi",1,3.8,280
+"Burger, German, Sandwich",1,2.2,108
+"Seafood, American, Mediterranean, Japanese",1,4.7,535
+"Seafood, Asian, Filipino, Indian",1,4.4,270
+"Seafood, Asian, Grill, Sushi",1,3.8,619
+"Seafood, Bar Food, Brazilian",1,4.0,7
+"Seafood, Chinese",1,4.2,2584
+"Seafood, Chinese, Japanese, Sushi, Thai",1,3.7,44
+"Seafood, Chinese, Japanese, Vietnamese, Asian, Thai",1,3.9,287
+"Seafood, Chinese, Thai",1,4.0,100
+"Seafood, Continental, European",1,3.7,601
+"Seafood, Continental, European, German",1,4.7,681
+"Seafood, Continental, Goan, Asian, Andhra",1,3.8,144
+"Seafood, Filipino, Asian, European",1,4.2,677
+"Seafood, French",1,4.6,302
+"Burger, Greek, Sandwich",1,3.9,156
+"Seafood, Japanese, Sushi",1,4.4,466
+"Burger, Grill",1,4.0,36
+"Seafood, Mediterranean",1,3.7,45
+"Seafood, Mughlai, North Indian",1,,0
+"Burger, Izgara",1,4.3,870
+"Seafood, South Indian, Andhra, Hyderabadi, Goan",1,4.2,336
+"Seafood, Southern",1,3.9,231
+"Seafood, Steak",1,4.0,875
+"Seafood, Steak, Vegetarian",1,4.2,722
+"Burger, Juices, Finger Food",1,3.6,548
+"Seafood, Tapas, Bar Food",1,3.8,250
+"Burger, Pizza",1,3.9,136
+"Singaporean, Australian, German",1,3.1,33
+"Singaporean, Chinese, Seafood, Malay, Indian",1,3.0,25
+"Burger, Pizza, Biryani",1,4.3,172
+"Burger, Pizza, Fast Food",1,,0
+"South Indian, Andhra",1,4.2,3010
+"Burger, Sandwich, Seafood",1,4.4,1408
+"Burger, Seafood",1,4.0,326
+"South Indian, Chettinad, North Indian",1,3.9,318
+"South Indian, Chettinad, North Indian, Chinese",1,3.4,161
+"Burger, Steak, Seafood",1,4.1,84
+"South Indian, Chinese, Continental",1,,1
+"South Indian, Chinese, Continental, Italian, North Indian",1,4.1,75
+"Burmese, Chinese, Thai",1,3.4,65
+"South Indian, Chinese, Fast Food, Mithai",1,2.8,11
+"South Indian, Chinese, Mithai",1,,0
+"South Indian, Chinese, Mughlai",1,,0
+"Cafe, American",1,4.6,696
+"South Indian, Chinese, Street Food, Mithai",1,3.3,61
+"South Indian, Desserts",1,4.1,121
+"South Indian, Desserts, Beverages",1,3.7,25
+"Cafe, American, Continental, Armenian, Fast Food",1,3.9,166
+"Cafe, American, Continental, Nepalese",1,3.6,31
+"South Indian, Fast Food, North Indian, Chinese",1,,2
+"South Indian, Fast Food, Street Food",1,3.1,44
+"Cafe, American, Desserts, Italian, Bakery",1,3.7,18
+"South Indian, Nepalese",1,,1
+"Cafe, American, Italian",1,4.0,244
+"Cafe, American, Italian, Continental",1,4.1,377
+"South Indian, North Indian, Chinese, Continental",1,3.5,134
+"Cafe, American, Italian, Filipino",1,3.6,29
+"South Indian, North Indian, Chinese, Fast Food, Street Food, Mithai",1,3.5,1198
+"South Indian, North Indian, Chinese, Mughlai",1,3.1,13
+"South Indian, North Indian, Chinese, Street Food, Fast Food",1,2.8,39
+"South Indian, North Indian, Fast Food",1,2.8,12
+"South Indian, North Indian, Street Food",1,3.0,4
+"South Indian, North Indian, Street Food, Chinese, Mithai",1,3.5,368
+"South Indian, Pizza, Chinese",1,,0
+"South Indian, Seafood, Kerala",1,4.0,802
+"South Indian, Street Food",1,,1
+"South Indian, Street Food, Chinese",1,,2
+"South Indian, Street Food, Desserts",1,3.0,7
+"Cafe, American, Italian, North Indian, Chinese",1,3.7,185
+"Cafe, American, Mexican, Italian, Thai",1,3.8,134
+"Southern, Cajun, Soul Food",1,3.6,432
+"Spanish, Italian",1,4.3,800
+"Cafe, American, Tea",1,3.1,5
+Sri Lankan,1,4.0,114
+"Cafe, Asian, Italian, North Indian",1,4.2,91
+"Cafe, Australian",1,3.7,29
+"Steak, BBQ",1,4.4,17
+"Steak, Scottish, British",1,4.2,64
+"Steak, Seafood, Grill",1,4.4,704
+"Steak, Tapas, Bar Food",1,3.5,51
+"Cafe, Bakery, American, Italian",1,4.4,392
+"Cafe, Bakery, Italian",1,4.1,251
+"Cafe, Bakery, Parsi",1,4.1,84
+"Street Food, Burger, American, Finger Food, German",1,4.4,301
+"Street Food, Burger, Desserts, Italian, Pizza, North Indian, European, Finger Food",1,4.0,536
+"Cafe, Bakery, Tea, Vegetarian",1,4.0,185
+"Street Food, Chinese, Mithai",1,3.3,12
+"Cafe, Belgian",1,3.9,231
+"Cafe, Beverages, Desserts, Pizza",1,4.0,404
+"Street Food, Continental, Burger, Grill",1,3.9,135
+"Street Food, Continental, South Indian, North Indian, Chinese",1,3.9,204
+"Cafe, British",1,3.7,13
+"Cafe, Burger, Tapas, South African, European, Grill",1,3.9,150
+"Street Food, Fast Food, Beverages",1,3.1,7
+"Street Food, Fast Food, Chinese, South Indian, North Indian",1,3.7,65
+"Street Food, Fast Food, North Indian",1,3.8,317
+"Cafe, Charcoal Grill, Steak",1,4.5,145
+"Street Food, Mithai, North Indian, South Indian, Chinese",1,,3
+"Street Food, Mithai, South Indian, North Indian, Chinese",1,2.5,9
+"Street Food, Mughlai",1,3.3,47
+"Cafe, Chinese, Continental",1,4.0,1126
+"Street Food, North Indian, Chinese, Continental",1,3.9,1485
+"Cafe, Chinese, Continental, Italian, Desserts, Beverages",1,3.2,28
+"Street Food, North Indian, South Indian",1,2.9,4
+"Street Food, North Indian, South Indian, Chinese",1,3.1,10
+"Cafe, Chinese, Fast Food, Italian",1,3.7,201
+"Cafe, Chinese, Fast Food, Seafood",1,3.8,253
+"Cafe, Chinese, North Indian",1,3.3,51
+"Street Food, South Indian, Chinese",1,2.7,31
+"Cafe, Chinese, Thai, North Indian, Continental",1,4.0,79
+"Cafe, Coffee and Tea, Modern Australian",1,3.8,192
+"Cafe, Coffee and Tea, Sandwich",1,3.4,19
+"Cafe, Coffee and Tea, Western",1,4.2,22
+"Cafe, Continental, Chinese, North Indian, Italian",1,3.6,244
+"Sushi, Japanese, Cantonese",1,3.8,32
+"Sushi, Japanese, Healthy Food",1,4.0,53
+"Sushi, Teriyaki",1,4.5,208
+"Sushi, Thai",1,4.0,340
+"Cafe, Continental, Desserts",1,4.4,944
+"Cafe, Continental, Desserts, Ice Cream, Italian, Beverages",1,3.9,127
+"Cafe, Continental, European, Beverages",1,3.6,140
+"Tea, Beverages, Fast Food",1,,2
+"Tea, Cafe",1,4.1,68
+"Cafe, Continental, Italian, Bakery",1,4.4,138
+"Tea, Modern Australian",1,3.5,37
+"Afghani, North Indian",1,,0
+"Afghani, North Indian, Pakistani, Arabian",1,,3
+African,1,4.7,373
+"African, Portuguese",1,4.2,265
+"Cafe, Continental, Italian, Chinese",1,3.6,83
+"American, Asian, Burger",1,4.6,1078
+"American, Asian, European, Seafood",1,4.6,1691
+"American, Asian, Italian, Seafood",1,4.5,618
+"American, Asian, North Indian, Mexican, South Indian",1,3.3,21
+"Cafe, Continental, Italian, Chinese, North Indian",1,4.2,349
+"Cafe, Continental, Italian, Fast Food",1,3.7,216
+"American, BBQ, Sandwich",1,4.9,1252
+"American, BBQ, Seafood",1,3.3,65
+"Cafe, Continental, Italian, Mexican",1,4.0,134
+"Cafe, Continental, Italian, Mexican, Chinese, American",1,4.7,1563
+"Afghani, Mughlai, Chinese",1,,2
+"Cafe, Continental, Italian, Pizza",1,4.1,255
+"Cafe, Continental, Italian, Street Food",1,4.0,341
+"Cafe, Continental, Mexican, Italian, North Indian, Chinese",1,3.7,177
+"Cafe, Continental, North Indian",1,3.6,261
+"Thai, Chinese, Asian",1,3.8,107
+"Thai, Chinese, Asian, Malaysian",1,3.8,118
+"Thai, Chinese, Japanese",1,3.7,111
+"Thai, Chinese, North Indian",1,3.9,38
+"Thai, Chinese, Seafood",1,3.1,70
+"Thai, European, Mexican, North Indian, Chinese, Cafe",1,4.5,778
+"Thai, Japanese",1,3.6,148
+"Thai, Japanese, Chinese, Indonesian, Vietnamese",1,4.4,246
+"Cafe, Continental, North Indian, Chinese",1,4.2,1859
+"Cafe, Continental, North Indian, Chinese, Mexican",1,4.0,107
+"Cafe, Continental, North Indian, Italian, Chinese, Bakery, Desserts, Finger Food",1,3.8,146
+"American, Bakery, European, Burger, Fusion",1,3.8,28

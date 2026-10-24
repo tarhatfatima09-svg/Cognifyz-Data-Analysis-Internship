@@ -1,0 +1,64 @@
+# Cognifyz Technologies – Data Analysis Internship
+## Level 2 – Task 3: Geographic Analysis
+
+### 1. Objective
+To analyze the geographical distribution of restaurants using latitude and longitude coordinates, identify approximate areas with high restaurant concentrations, and visualize the results.
+
+### 2. Dataset
+- Original restaurant records: 9,551
+- Records excluded due to missing or placeholder coordinates: 497
+- Records used for geographic analysis: 9,054
+- Geographic attributes: Latitude and Longitude
+
+### 3. Methodology
+1. Loaded the restaurant dataset using Pandas.
+2. Identified records with missing coordinates or coordinates equal to (0, 0).
+3. Excluded these records from geographic analysis while preserving the original dataset.
+4. Saved the cleaned geographic data.
+5. Rounded latitude and longitude to two decimal places to group restaurants into approximate geographic areas.
+6. Counted restaurants in each area and sorted the results in descending order.
+7. Generated visualizations showing geographic distribution and the ten most populated approximate areas.
+
+### 4. Results
+
+The analysis used 9,054 restaurant records after excluding 497 records with missing or placeholder coordinates.
+
+Latitude range: -41.330428 to 55.97698
+
+Longitude range: -157.948486 to 174.8320893
+
+#### Top 10 Approximate Geographic Areas
+
+| Latitude | Longitude | Restaurant Count |
+|---:|---:|---:|
+| 28.63 | 77.22 | 147 |
+| 28.57 | 77.32 | 104 |
+| 28.57 | 77.33 | 79 |
+| 28.59 | 77.17 | 76 |
+| 28.64 | 77.18 | 72 |
+| 28.56 | 77.21 | 72 |
+| 28.65 | 77.12 | 71 |
+| 28.49 | 77.09 | 70 |
+| 28.55 | 77.25 | 64 |
+| 28.53 | 77.22 | 63 |
+
+### 5. Key Insights
+- A total of 9,054 records were included in the geographic analysis.
+- The most populated approximate coordinate area was latitude 28.63 and longitude 77.22, containing 147 restaurant records.
+- All ten leading approximate areas fall within a relatively concentrated region around New Delhi.
+- Excluding the (0, 0) coordinates removed a misleading concentration that could distort geographic visualizations.
+- Grouping coordinates after rounding to two decimal places provides an approximate comparison of restaurant concentrations; it does not represent formal clustering or prove exact neighborhood boundaries.
+
+### 6. Output Files
+The following files were generated in the `level_2/outputs/` directory:
+
+- `geographic_restaurant_data.csv`
+- `geographic_cluster_results.csv`
+- `geographic_analysis_summary.csv`
+- `restaurant_geographic_distribution.png`
+- `top_geographic_clusters.png`
+
+### 7. Conclusion
+The geographic analysis identified approximate areas with high restaurant concentrations after excluding records with missing or placeholder coordinates. The results show a notable concentration around the New Delhi region. The cleaned dataset, summary CSV, cluster results, and charts provide a useful basis for further geographical analysis.
+
+**Tools Used:** Python, Pandas, Matplotlib
